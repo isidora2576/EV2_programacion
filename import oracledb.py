@@ -51,3 +51,4 @@ def limpiar_rut(rut):
     if len(limpio) > 1:
         return f"{limpio[:-1]}-{limpio[-1]}"
     return limpio
+
