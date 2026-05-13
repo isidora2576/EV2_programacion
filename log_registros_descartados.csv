@@ -1,0 +1,480 @@
+﻿IDCLIENTE;RUT;NOMBRE;APELLIDOPATERNO;APELLIDOMATERNO;TELEFONO;EMAIL;DIRECCION;CIUDAD;CODIGOPOSTAL;FECHAREGISTRO;ESTADO;RUT_CIFRADO;EMAIL_CIFRADO
+21550;XX.XXX.XXX-X;Rebeca;Barrera;Bustamante;+56915872821;cmbxwm437@mailserver.io;Ruta Colón 5944 dpto. 2169;Rancagua;3120;2023-12-26;Descartado;XX.XXX.XXX-X;cmbxwm437@mailserver.io
+24235;XX.XXX.XXX-X;Lucía;González;Delgado;+56974038185;errlrfmw790@sample.cl;Camino Alvear 8144;El Bosque;9343;2023-12-26;Descartado;XX.XXX.XXX-X;errlrfmw790@sample.cl
+22230;XX.XXX.XXX-X;Martín;Zapata;Pacheco;NO DISPONIBLE;cvecten536@sample.cl;Calle Yrigoyen 3680 dpto. 43;Penco;7380;2023-12-25;Descartado;XX.XXX.XXX-X;cvecten536@sample.cl
+21871;XX.XXX.XXX-X;Mariana;Orozco;NO DISPONIBLE;+56916405218;vlplor758@testmail.org;Camino Esmeralda 7257 dpto. 366;Punta Arenas;3613;2023-12-14;Descartado;XX.XXX.XXX-X;vlplor758@testmail.org
+24525;XX.XXX.XXX-X;Oscar;López;Muñoz;+56960175890;okknizmds774@example.com;Avenida Belgrano 5593;Talca;5031;2023-12-13;Descartado;XX.XXX.XXX-X;okknizmds774@example.com
+23028;XX.XXX.XXX-X;Raquel, Padilla;NO DISPONIBLE;NO DISPONIBLE;+56964178682;vjwkvqd349@mailserver.io;Calle Las Heras 6202;Villa Alemana;7098;2023-10-15;Descartado;XX.XXX.XXX-X;vjwkvqd349@mailserver.io
+25748;XX.XXX.XXX-X;Ignacio, Gutiérrez;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;hjsrpyu779@demo.net;Ruta Mitre 7286;Coyhaique;7489;2023-10-13;Descartado;XX.XXX.XXX-X;hjsrpyu779@demo.net
+23277;XX.XXX.XXX-X;Teresa;NO DISPONIBLE;NO DISPONIBLE;+56953792326;baxpjtml410@testmail.org;Ruta Larraín 6039;Puente Alto;4813;2023-10-06;Descartado;XX.XXX.XXX-X;baxpjtml410@testmail.org
+23501;XX.XXX.XXX-X;Julio;Silva;NO DISPONIBLE;+56999638753;vzqtvr394@demo.net;Avenida San Martín 8125;Valparaíso;5286;2023-09-30;Descartado;XX.XXX.XXX-X;vzqtvr394@demo.net
+23820;XX.XXX.XXX-X;Julio;Pérez;Pineda;NO DISPONIBLE;qipanwquq213@demo.net;Avenida Esmeralda 4613;Copiapó;4312;2023-09-28;Descartado;XX.XXX.XXX-X;qipanwquq213@demo.net
+23124;XX.XXX.XXX-X;Noelia, Espinoza, Bustamante;NO DISPONIBLE;NO DISPONIBLE;+56994012829;bvekihizje819@testmail.org;NO DISPONIBLE;Ovalle;8145;2023-09-23;Descartado;XX.XXX.XXX-X;bvekihizje819@testmail.org
+25291;XX.XXX.XXX-X;Isabel;Arroyo;NO DISPONIBLE;+56956162932;eedjfz661@testmail.org;Camino Belgrano 6523 dpto. 1912;Coyhaique;1709;2023-09-05;Descartado;XX.XXX.XXX-X;eedjfz661@testmail.org
+24135;XX.XXX.XXX-X;Renata;Villanueva;Torres;+56931783986;gkgflyzqxs880@sample.cl;NO DISPONIBLE;Coyhaique;7633;2023-08-28;Descartado;XX.XXX.XXX-X;gkgflyzqxs880@sample.cl
+24862;XX.XXX.XXX-X;Valentina;NO DISPONIBLE;NO DISPONIBLE;+56934812343;aglxxrjm804@demo.net;Avenida Belgrano 3122;Chillán;2801;2023-08-03;Descartado;XX.XXX.XXX-X;aglxxrjm804@demo.net
+23538;XX.XXX.XXX-X;Adriana, López;NO DISPONIBLE;NO DISPONIBLE;+56926843059;ujlrrvnouw656@example.com;Ruta Larraín 4336 dpto. 197;Rancagua;1823;2023-07-21;Descartado;XX.XXX.XXX-X;ujlrrvnouw656@example.com
+25537;XX.XXX.XXX-X;Claudia;NO DISPONIBLE;NO DISPONIBLE;+56947073043;ifzdgtq132@testmail.org;Calle Independencia 8888;Punta Arenas;9425;2023-07-01;Descartado;XX.XXX.XXX-X;ifzdgtq132@testmail.org
+25115;XX.XXX.XXX-X;Fernando;Padilla;Cervantes;+56925393089;varket108@testmail.org;Camino Mitre 7894;Vitacura;3086;2023-06-25;Descartado;XX.XXX.XXX-X;varket108@testmail.org
+22327;XX.XXX.XXX-X;Álex;NO DISPONIBLE;NO DISPONIBLE;+56931671788;NO DISPONIBLE;Calle Sarmiento 57;Padre Hurtado;7665;2023-06-23;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+25216;XX.XXX.XXX-X;Cristina;Peña;NO DISPONIBLE;+56978639682;fghig664@demo.net;Avenida Bolívar 3082;Peñaflor;4796;2023-06-17;Descartado;XX.XXX.XXX-X;fghig664@demo.net
+21682;XX.XXX.XXX-X;Álex;NO DISPONIBLE;NO DISPONIBLE;+56924026660;wgcmdxrl895@demo.net;Avenida José Miguel Carrera 2056;Lota;2640;2023-06-11;Descartado;XX.XXX.XXX-X;wgcmdxrl895@demo.net
+22302;XX.XXX.XXX-X;Enrique;NO DISPONIBLE;NO DISPONIBLE;+56968966914;yprydxogb440@testmail.org;Ruta La Paz 8762 dpto. 1162;Iquique;9364;2023-05-13;Descartado;XX.XXX.XXX-X;yprydxogb440@testmail.org
+21837;XX.XXX.XXX-X;Laura;NO DISPONIBLE;NO DISPONIBLE;+56996623513;kepyso428@mailserver.io;Ruta Mitre 4842;Calama;9909;2023-05-04;Descartado;XX.XXX.XXX-X;kepyso428@mailserver.io
+22158;XX.XXX.XXX-X;Beatriz, Velasco;NO DISPONIBLE;NO DISPONIBLE;+56916335940;fnqhswkonv580@demo.net;Avenida OHiggins 6732;Castro;6700;2023-04-15;Descartado;XX.XXX.XXX-X;fnqhswkonv580@demo.net
+25446;XX.XXX.XXX-X;Carolina;Pacheco;NO DISPONIBLE;NO DISPONIBLE;xprlynt163@mailserver.io;Avenida Bolívar 2534 dpto. 2481;Antofagasta;5992;2023-04-09;Descartado;XX.XXX.XXX-X;xprlynt163@mailserver.io
+21294;XX.XXX.XXX-X;Ramón, Camacho, Cervantes;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;Calle Belgrano 9386;Talcahuano;8231;2023-03-04;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+21267;XX.XXX.XXX-X;Roberto;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;umfejcy836@example.com;Calle Independencia 1836 dpto. 801;Copiapó;9878;2023-02-09;Descartado;XX.XXX.XXX-X;umfejcy836@example.com
+24390;XX.XXX.XXX-X;Berta;Silva;Flores;+56992868816;mccwsvkho805@example.com;Avenida Esmeralda 1359;Rancagua;6873;2023-02-05;Descartado;XX.XXX.XXX-X;mccwsvkho805@example.com
+23207;XX.XXX.XXX-X;María;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;gtzmkoe811@sample.cl;Ruta Sucre 7963 dpto. 1314;Talca;1881;2023-02-03;Descartado;XX.XXX.XXX-X;gtzmkoe811@sample.cl
+21040;XX.XXX.XXX-X;Berta;Alvarado;Ruiz;+56916153741;wlmtehed493@testmail.org;Avenida Mitre 4014;Buin;6730;2023-01-24;Descartado;XX.XXX.XXX-X;wlmtehed493@testmail.org
+21794;XX.XXX.XXX-X;Javier, López, Romero;NO DISPONIBLE;NO DISPONIBLE;+56927925863;knjgpnha601@testmail.org;Avenida Larraín 8971 dpto. 1863;Vallenar;1144;2022-12-29;Descartado;XX.XXX.XXX-X;knjgpnha601@testmail.org
+21723;XX.XXX.XXX-X;Hugo, Delgado;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;ldxfzjcw141@sample.cl;Calle Colón 7944 dpto. 200;Linares;3361;2022-12-18;Descartado;XX.XXX.XXX-X;ldxfzjcw141@sample.cl
+25384;XX.XXX.XXX-X;Emilio, Bustamante, Silva;NO DISPONIBLE;NO DISPONIBLE;+56941440070;znsphec924@demo.net;Camino Bolívar 1143 dpto. 2047;Colina;4422;2022-12-11;Descartado;XX.XXX.XXX-X;znsphec924@demo.net
+25205;XX.XXX.XXX-X;Juan;Ríos;Sánchez;+56997253868;NO DISPONIBLE;Camino Bolívar 9946;Antofagasta;7481;2022-11-30;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+25085;XX.XXX.XXX-X;Inés;Benítez;Soto;+56921729382;ixpcrf756@demo.net;Ruta Sucre 7586 dpto. 91;Curicó;5210;2022-11-22;Descartado;XX.XXX.XXX-X;ixpcrf756@demo.net
+21792;XX.XXX.XXX-X;Bruno;NO DISPONIBLE;NO DISPONIBLE;+56960256433;mitqyh921@testmail.org;Ruta Esmeralda 994 dpto. 1488;Machalí;3155;2022-11-04;Descartado;XX.XXX.XXX-X;mitqyh921@testmail.org
+24052;XX.XXX.XXX-X;Laura;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;bwimoh274@testmail.org;Calle José Miguel Carrera 3680;Cauquenes;6259;2022-10-30;Descartado;XX.XXX.XXX-X;bwimoh274@testmail.org
+25263;XX.XXX.XXX-X;Isabel, Barrera;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;tlualgp274@sample.cl;Ruta OHiggins 6280;La Serena;6305;2022-10-27;Descartado;XX.XXX.XXX-X;tlualgp274@sample.cl
+23855;XX.XXX.XXX-X;Mariana;Pineda;Espinoza;+56952712088;blqkbg518@sample.cl;Calle Moreno 2432 dpto. 613;San Antonio;8420;2022-10-19;Descartado;XX.XXX.XXX-X;blqkbg518@sample.cl
+23217;XX.XXX.XXX-X;Gloria;NO DISPONIBLE;NO DISPONIBLE;+56982084394;NO DISPONIBLE;Ruta La Paz 9585;San Fernando;6402;2022-10-10;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+24908;XX.XXX.XXX-X;Berta, Ibarra;NO DISPONIBLE;NO DISPONIBLE;+56991715023;ymzjnenz487@example.com;Camino Colón 8093;San Antonio;9196;2022-09-26;Descartado;XX.XXX.XXX-X;ymzjnenz487@example.com
+25277;XX.XXX.XXX-X;Pedro;NO DISPONIBLE;NO DISPONIBLE;+56952363383;tjzyhylc761@sample.cl;Avenida Bolívar 2289;Talca;5424;2022-09-11;Descartado;XX.XXX.XXX-X;tjzyhylc761@sample.cl
+24521;XX.XXX.XXX-X;Berta;Miranda;NO DISPONIBLE;NO DISPONIBLE;dfemwd710@sample.cl;Ruta Artigas 1532 dpto. 314;Penco;4121;2022-08-17;Descartado;XX.XXX.XXX-X;dfemwd710@sample.cl
+24137;XX.XXX.XXX-X;Guadalupe;NO DISPONIBLE;NO DISPONIBLE;+56939695332;esskmm390@mailserver.io;Avenida Sucre 4164 dpto. 1074;Quilicura;2896;2022-08-09;Descartado;XX.XXX.XXX-X;esskmm390@mailserver.io
+25720;XX.XXX.XXX-X;Eduardo;Zapata;Saavedra;+56966906900;ktjajmwvv708@testmail.org;Camino Sarmiento 1670;Buin;8153;2022-08-01;Descartado;XX.XXX.XXX-X;ktjajmwvv708@testmail.org
+22805;XX.XXX.XXX-X;Alberto;Flores;Muñoz;+56937168871;abjeoqni722@testmail.org;Camino Belgrano 7755;Melipilla;3551;2022-07-18;Descartado;XX.XXX.XXX-X;abjeoqni722@testmail.org
+20916;XX.XXX.XXX-X;Lucía;Silva;NO DISPONIBLE;NO DISPONIBLE;iqkwdlycq913@testmail.org;Camino Rivadavia 2873 dpto. 322;Chillán;6787;2022-07-14;Descartado;XX.XXX.XXX-X;iqkwdlycq913@testmail.org
+21150;XX.XXX.XXX-X;Cristina;González;Navarro;NO DISPONIBLE;ypdcvq358@example.com;Avenida Alvear 4790;Ovalle;2690;2022-07-13;Descartado;XX.XXX.XXX-X;ypdcvq358@example.com
+23526;XX.XXX.XXX-X;Claudia;Benítez;NO DISPONIBLE;NO DISPONIBLE;dixsruo512@testmail.org;Ruta José Miguel Carrera 9231;Puerto Montt;7194;2022-07-05;Descartado;XX.XXX.XXX-X;dixsruo512@testmail.org
+21925;XX.XXX.XXX-X;Eduardo;Rodríguez;Maldonado;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;Quillota;7206;2022-07-01;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+22362;XX.XXX.XXX-X;Mónica;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;zcwrof426@example.com;Ruta Sarmiento 1728 dpto. 2465;Calama;2398;2022-04-07;Descartado;XX.XXX.XXX-X;zcwrof426@example.com
+22915;XX.XXX.XXX-X;Rebeca;Molina;Reyes;NO DISPONIBLE;ubtlvwqxyj460@demo.net;Camino San Martín 5152 dpto. 1088;Machalí;2034;2022-04-01;Descartado;XX.XXX.XXX-X;ubtlvwqxyj460@demo.net
+23648;XX.XXX.XXX-X;Natalia, Soto;NO DISPONIBLE;NO DISPONIBLE;+56945838293;pasayb758@sample.cl;Camino Independencia 5446 dpto. 44;Puerto Montt;6017;2022-03-20;Descartado;XX.XXX.XXX-X;pasayb758@sample.cl
+23624;XX.XXX.XXX-X;Esteban, Chávez, Reyes;NO DISPONIBLE;NO DISPONIBLE;+56969421801;nnobk434@demo.net;Ruta Santa Rosa 4749 dpto. 1080;Machalí;7323;2022-03-14;Descartado;XX.XXX.XXX-X;nnobk434@demo.net
+20967;XX.XXX.XXX-X;Teresa;NO DISPONIBLE;NO DISPONIBLE;+56969307863;oliue252@example.com;NO DISPONIBLE;Los Ángeles;7631;2022-03-09;Descartado;XX.XXX.XXX-X;oliue252@example.com
+22226;XX.XXX.XXX-X;Guadalupe;Pacheco;NO DISPONIBLE;+56951989582;hyjxno835@testmail.org;Avenida Las Heras 9256 dpto. 2421;Puente Alto;7235;2022-02-27;Descartado;XX.XXX.XXX-X;hyjxno835@testmail.org
+23534;XX.XXX.XXX-X;Cecilia, Blanco, González;NO DISPONIBLE;NO DISPONIBLE;+56926524591;utrtcr132@example.com;Calle Alvear 5485 dpto. 2298;Vitacura;5765;2022-02-04;Descartado;XX.XXX.XXX-X;utrtcr132@example.com
+21981;XX.XXX.XXX-X;Amelia;Aguilar;NO DISPONIBLE;+56986205326;cytke830@example.com;Ruta Sucre 4210;Vitacura;3683;2021-12-20;Descartado;XX.XXX.XXX-X;cytke830@example.com
+21974;XX.XXX.XXX-X;Felipe, Reyes, Ramírez;NO DISPONIBLE;NO DISPONIBLE;+56928410524;NO DISPONIBLE;Ruta Rivadavia 9902 dpto. 618;La Serena;1162;2021-11-27;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+23412;XX.XXX.XXX-X;Rosa;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;cwvbirvcc204@testmail.org;Calle Sarmiento 2349;San Felipe;4517;2021-11-24;Descartado;XX.XXX.XXX-X;cwvbirvcc204@testmail.org
+21883;XX.XXX.XXX-X;Guadalupe, Pacheco;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;bqrjxpc666@sample.cl;Ruta Sucre 8049 dpto. 473;Iquique;7574;2021-11-19;Descartado;XX.XXX.XXX-X;bqrjxpc666@sample.cl
+24022;XX.XXX.XXX-X;Carolina;NO DISPONIBLE;NO DISPONIBLE;+56936770893;bagahzxlc170@testmail.org;Ruta La Paz 9141;Linares;8465;2021-11-09;Descartado;XX.XXX.XXX-X;bagahzxlc170@testmail.org
+25380;XX.XXX.XXX-X;Emma;Alvarado;Manrique;+56995747610;heezdmg888@example.com;Ruta Belgrano 4209 dpto. 2045;Valdivia;6355;2021-11-02;Descartado;XX.XXX.XXX-X;heezdmg888@example.com
+23065;XX.XXX.XXX-X;Paula;Valencia;Castro;+56966952841;gbphfzgc993@testmail.org;Avenida José Miguel Carrera 5010 dpto. 1370;Puerto Montt;6216;2021-10-29;Descartado;XX.XXX.XXX-X;gbphfzgc993@testmail.org
+22656;XX.XXX.XXX-X;Eduardo;Moreno;NO DISPONIBLE;+56919531292;lfnwnk556@sample.cl;NO DISPONIBLE;Rancagua;6801;2021-10-27;Descartado;XX.XXX.XXX-X;lfnwnk556@sample.cl
+24882;XX.XXX.XXX-X;Lorena;NO DISPONIBLE;NO DISPONIBLE;+56993570946;NO DISPONIBLE;Camino Colón 1868;Coronel;9301;2021-10-24;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+21354;XX.XXX.XXX-X;Eduardo, Reyes, Hernández;NO DISPONIBLE;NO DISPONIBLE;+56945002536;jmwipxcqt796@mailserver.io;Calle Esmeralda 8608 dpto. 1339;Angol;8369;2021-10-22;Descartado;XX.XXX.XXX-X;jmwipxcqt796@mailserver.io
+25158;XX.XXX.XXX-X;Pedro, Blanco;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;kvqtzujw985@testmail.org;NO DISPONIBLE;Vallenar;4583;2021-10-12;Descartado;XX.XXX.XXX-X;kvqtzujw985@testmail.org
+24590;XX.XXX.XXX-X;Beatriz;Sánchez;Salinas;+56999925826;fzuyyhmrn172@mailserver.io;Avenida Independencia 224;La Serena;4323;2021-10-11;Descartado;XX.XXX.XXX-X;fzuyyhmrn172@mailserver.io
+25187;XX.XXX.XXX-X;Eduardo;NO DISPONIBLE;NO DISPONIBLE;+56916899676;ejqragttb737@demo.net;Ruta Larraín 542;Vitacura;5551;2021-09-27;Descartado;XX.XXX.XXX-X;ejqragttb737@demo.net
+22997;XX.XXX.XXX-X;Alicia;NO DISPONIBLE;NO DISPONIBLE;+56955456289;NO DISPONIBLE;Calle Santa Rosa 3510 dpto. 2449;Vallenar;3405;2021-09-13;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+22028;XX.XXX.XXX-X;Roberto, Torres;NO DISPONIBLE;NO DISPONIBLE;+56986106792;twwudaq194@testmail.org;Camino San Martín 5800;Linares;4237;2021-08-15;Descartado;XX.XXX.XXX-X;twwudaq194@testmail.org
+22195;XX.XXX.XXX-X;Amelia;Padilla;Bermúdez;NO DISPONIBLE;stpkeotr261@demo.net;Camino Yrigoyen 5473 dpto. 186;Valdivia;9791;2021-08-05;Descartado;XX.XXX.XXX-X;stpkeotr261@demo.net
+23561;XX.XXX.XXX-X;Raúl;Jiménez;NO DISPONIBLE;+56975322514;ahcxus263@example.com;Avenida Moreno 6318;Antofagasta;4384;2021-07-30;Descartado;XX.XXX.XXX-X;ahcxus263@example.com
+22440;XX.XXX.XXX-X;Irene;Villalobos;Espinoza;NO DISPONIBLE;waxkz441@testmail.org;Avenida Rivadavia 7149;Linares;5053;2021-07-21;Descartado;XX.XXX.XXX-X;waxkz441@testmail.org
+24921;XX.XXX.XXX-X;Berta;Pineda;NO DISPONIBLE;NO DISPONIBLE;uebtygvger365@testmail.org;NO DISPONIBLE;San Fernando;2584;2021-07-13;Descartado;XX.XXX.XXX-X;uebtygvger365@testmail.org
+24317;XX.XXX.XXX-X;Manuela;NO DISPONIBLE;NO DISPONIBLE;+56930550888;nikndwe809@testmail.org;Calle Independencia 1408 dpto. 233;La Serena;8028;2021-06-30;Descartado;XX.XXX.XXX-X;nikndwe809@testmail.org
+24409;XX.XXX.XXX-X;Pedro, Ortiz, Bravo;NO DISPONIBLE;NO DISPONIBLE;+56915689479;NO DISPONIBLE;Ruta Sarmiento 3739;San Antonio;6428;2021-06-27;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+21372;XX.XXX.XXX-X;Estefanía;NO DISPONIBLE;NO DISPONIBLE;+56920083411;yymfemun650@mailserver.io;Ruta Sarmiento 7894 dpto. 1790;Talcahuano;5973;2021-06-17;Descartado;XX.XXX.XXX-X;yymfemun650@mailserver.io
+24813;XX.XXX.XXX-X;Fernanda, Quintero;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;Hualpén;5605;2021-06-12;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+22780;XX.XXX.XXX-X;Beatriz;Ibarra;Reyes;NO DISPONIBLE;sgpfuhrlm353@demo.net;Ruta Sucre 1988;Providencia;7786;2021-06-04;Descartado;XX.XXX.XXX-X;sgpfuhrlm353@demo.net
+21905;XX.XXX.XXX-X;Andrea;Camacho;Valencia;+56971855324;etmaqevf332@example.com;NO DISPONIBLE;Antofagasta;2927;2021-05-22;Descartado;XX.XXX.XXX-X;etmaqevf332@example.com
+21770;XX.XXX.XXX-X;Laura;Chávez;Ledesma;+56960041111;NO DISPONIBLE;Camino Sucre 3646 dpto. 991;Coronel;9554;2021-05-22;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+22590;XX.XXX.XXX-X;Berta;Hernández;Saavedra;NO DISPONIBLE;NO DISPONIBLE;Camino San Martín 4241 dpto. 1584;La Pintana;2070;2021-05-03;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+22258;XX.XXX.XXX-X;Álvaro, Torres;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;ezqrlkos197@sample.cl;Calle Yrigoyen 3262;Talcahuano;6124;2021-04-24;Descartado;XX.XXX.XXX-X;ezqrlkos197@sample.cl
+25345;XX.XXX.XXX-X;Agustín;Salinas;Vargas;+56933176287;zrkeljb781@mailserver.io;NO DISPONIBLE;Los Ángeles;5103;2021-04-18;Descartado;XX.XXX.XXX-X;zrkeljb781@mailserver.io
+21797;XX.XXX.XXX-X;Jorge;NO DISPONIBLE;NO DISPONIBLE;+56948314960;daqvaaac107@testmail.org;Camino Belgrano 8644;Puerto Montt;9769;2021-04-16;Descartado;XX.XXX.XXX-X;daqvaaac107@testmail.org
+21756;XX.XXX.XXX-X;Samuel;Ramírez;NO DISPONIBLE;+56925355030;esrpxe401@example.com;Calle Larraín 4009;Valdivia;4336;2021-04-08;Descartado;XX.XXX.XXX-X;esrpxe401@example.com
+24363;XX.XXX.XXX-X;Sebastián, Bravo;NO DISPONIBLE;NO DISPONIBLE;+56967467316;bungtqnxy541@mailserver.io;Avenida Larraín 8348;Valparaíso;9668;2021-03-13;Descartado;XX.XXX.XXX-X;bungtqnxy541@mailserver.io
+22981;XX.XXX.XXX-X;Hugo;Estrada;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;Avenida Belgrano 7010;Peñaflor;3667;2021-03-08;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+24350;XX.XXX.XXX-X;Sandra;Guerrero;Trejo;NO DISPONIBLE;qxnazgi552@mailserver.io;Calle Belgrano 1162;Vitacura;2136;2021-03-01;Descartado;XX.XXX.XXX-X;qxnazgi552@mailserver.io
+21309;XX.XXX.XXX-X;Paula, Pacheco, Aguilar;NO DISPONIBLE;NO DISPONIBLE;+56924753951;vtnmbnsy139@sample.cl;Calle Rivadavia 5755;Talcahuano;7918;2021-01-04;Descartado;XX.XXX.XXX-X;vtnmbnsy139@sample.cl
+23438;XX.XXX.XXX-X;Silvia, Navarro;NO DISPONIBLE;NO DISPONIBLE;+56973016706;cqfcqjlq488@example.com;Calle José Miguel Carrera 5434;Coyhaique;9756;2020-12-07;Descartado;XX.XXX.XXX-X;cqfcqjlq488@example.com
+24542;XX.XXX.XXX-X;Miguel;NO DISPONIBLE;NO DISPONIBLE;+56952338301;rgeglss171@example.com;Calle Esmeralda 9928 dpto. 776;Concepción;9578;2020-11-26;Descartado;XX.XXX.XXX-X;rgeglss171@example.com
+24490;XX.XXX.XXX-X;Fernanda;Cruz;Paredes;+56918909163;tbavmc351@testmail.org;Ruta San Martín 1080 dpto. 2215;Melipilla;5387;2020-11-05;Descartado;XX.XXX.XXX-X;tbavmc351@testmail.org
+21297;XX.XXX.XXX-X;Pablo;NO DISPONIBLE;NO DISPONIBLE;+56969174559;xdolyxswwg776@demo.net;Ruta José Miguel Carrera 6868;Arica;6939;2020-10-02;Descartado;XX.XXX.XXX-X;xdolyxswwg776@demo.net
+22611;XX.XXX.XXX-X;Carolina;Sandoval;NO DISPONIBLE;+56952179291;ehaffvnl484@example.com;Camino Rivadavia 7256;Vallenar;3201;2020-09-24;Descartado;XX.XXX.XXX-X;ehaffvnl484@example.com
+21075;XX.XXX.XXX-X;Rosa;Vega;Gutiérrez;+56911417637;zhcqtt152@mailserver.io;Camino Larraín 757;Melipilla;5469;2020-09-09;Descartado;XX.XXX.XXX-X;zhcqtt152@mailserver.io
+21096;XX.XXX.XXX-X;Claudia;Cabrera;NO DISPONIBLE;+56961720933;NO DISPONIBLE;Camino OHiggins 6483;Los Ángeles;3696;2020-09-01;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+23478;XX.XXX.XXX-X;Emilio, Quintero;NO DISPONIBLE;NO DISPONIBLE;+56954033313;nwpsrt514@demo.net;Ruta OHiggins 2736 dpto. 2253;Chillán;5450;2020-08-08;Descartado;XX.XXX.XXX-X;nwpsrt514@demo.net
+24362;XX.XXX.XXX-X;Clara;NO DISPONIBLE;NO DISPONIBLE;+56960566902;pirytsae959@demo.net;Camino Sarmiento 1413;Coronel;5217;2020-08-07;Descartado;XX.XXX.XXX-X;pirytsae959@demo.net
+22894;XX.XXX.XXX-X;Lorena, Palacios, Alvarez;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;eztjcnd568@demo.net;Ruta Independencia 5846;Punta Arenas;2805;2020-07-30;Descartado;XX.XXX.XXX-X;eztjcnd568@demo.net
+23807;XX.XXX.XXX-X;Manuela;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;Calle San Martín 8560;Iquique;1487;2020-07-13;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+25228;XX.XXX.XXX-X;Berta, Hernández;NO DISPONIBLE;NO DISPONIBLE;+56954417429;kfmcffyx775@mailserver.io;Camino San Martín 1653 dpto. 1311;Valparaíso;3267;2020-06-29;Descartado;XX.XXX.XXX-X;kfmcffyx775@mailserver.io
+22198;XX.XXX.XXX-X;Sofía, Jiménez;NO DISPONIBLE;NO DISPONIBLE;+56998043859;pcwqg291@demo.net;Camino Moreno 7470;Vallenar;4920;2020-06-23;Descartado;XX.XXX.XXX-X;pcwqg291@demo.net
+23082;XX.XXX.XXX-X;Lorena;NO DISPONIBLE;NO DISPONIBLE;+56944269719;iaknur677@demo.net;Camino Belgrano 6311 dpto. 448;Curicó;7737;2020-06-09;Descartado;XX.XXX.XXX-X;iaknur677@demo.net
+21982;XX.XXX.XXX-X;Samuel;NO DISPONIBLE;NO DISPONIBLE;+56979584747;gphuqqa425@mailserver.io;Camino Las Heras 1677 dpto. 380;Ovalle;2445;2020-06-07;Descartado;XX.XXX.XXX-X;gphuqqa425@mailserver.io
+20826;XX.XXX.XXX-X;Tomás;Núñez;NO DISPONIBLE;+56918179328;dihbrdtl494@sample.cl;Avenida Sucre 3115;Calama;1333;2020-05-11;Descartado;XX.XXX.XXX-X;dihbrdtl494@sample.cl
+24964;XX.XXX.XXX-X;Manuel, Vargas, Cervantes;NO DISPONIBLE;NO DISPONIBLE;+56973104091;dyjdokii241@sample.cl;Ruta José Miguel Carrera 5311;San Felipe;3124;2020-04-08;Descartado;XX.XXX.XXX-X;dyjdokii241@sample.cl
+21620;XX.XXX.XXX-X;Carlos;Bermúdez;Espinoza;+56979688296;mcmgzu169@demo.net;Calle Bolívar 2899;Osorno;9314;2020-04-04;Descartado;XX.XXX.XXX-X;mcmgzu169@demo.net
+21700;XX.XXX.XXX-X;Natalia;Martínez;Quintero;+56940004193;xqkukumv182@mailserver.io;NO DISPONIBLE;Valdivia;4422;2020-04-02;Descartado;XX.XXX.XXX-X;xqkukumv182@mailserver.io
+22457;XX.XXX.XXX-X;Álvaro;NO DISPONIBLE;NO DISPONIBLE;+56960638199;nckjxwwj567@sample.cl;Avenida Sucre 8655 dpto. 1607;San Felipe;4124;2020-03-21;Descartado;XX.XXX.XXX-X;nckjxwwj567@sample.cl
+22721;XX.XXX.XXX-X;Miguel;Espinoza;NO DISPONIBLE;NO DISPONIBLE;kgqpvitm181@demo.net;Calle José Miguel Carrera 9419;Temuco;9198;2020-02-17;Descartado;XX.XXX.XXX-X;kgqpvitm181@demo.net
+25765;XX.XXX.XXX-X;Salvador;Rentería;Manrique;+56922460743;NO DISPONIBLE;Calle Bolívar 1739 dpto. 366;Coronel;4639;2020-02-03;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+20998;XX.XXX.XXX-X;Lucas, Núñez;NO DISPONIBLE;NO DISPONIBLE;+56963012232;moeqjoaad175@testmail.org;Avenida Rivadavia 4136;Puente Alto;6844;2019-12-31;Descartado;XX.XXX.XXX-X;moeqjoaad175@testmail.org
+21941;XX.XXX.XXX-X;Roberto;Ruiz;NO DISPONIBLE;NO DISPONIBLE;mvuylbgzjc439@demo.net;Avenida Bolívar 291;Machalí;1237;2019-12-18;Descartado;XX.XXX.XXX-X;mvuylbgzjc439@demo.net
+22388;XX.XXX.XXX-X;Guadalupe, Alvarado;NO DISPONIBLE;NO DISPONIBLE;+56930133705;uvnau896@sample.cl;NO DISPONIBLE;Calama;5813;2019-12-16;Descartado;XX.XXX.XXX-X;uvnau896@sample.cl
+22513;XX.XXX.XXX-X;Berta, Valdez;NO DISPONIBLE;NO DISPONIBLE;+56967800014;wgbets894@example.com;Avenida Larraín 5646 dpto. 2433;Talca;4964;2019-12-12;Descartado;XX.XXX.XXX-X;wgbets894@example.com
+24582;XX.XXX.XXX-X;Fernando;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;kimnxpv115@testmail.org;Camino Mitre 8088;Talca;7660;2019-11-25;Descartado;XX.XXX.XXX-X;kimnxpv115@testmail.org
+22296;XX.XXX.XXX-X;Manuela;Fernández;NO DISPONIBLE;+56978678895;lmbkyso777@example.com;Calle Alvear 3214 dpto. 401;Los Ángeles;8647;2019-11-09;Descartado;XX.XXX.XXX-X;lmbkyso777@example.com
+25299;XX.XXX.XXX-X;Carolina, Silva, Cruz;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;svkitgpll633@testmail.org;Avenida Alvear 5360;Calama;3158;2019-11-06;Descartado;XX.XXX.XXX-X;svkitgpll633@testmail.org
+22057;XX.XXX.XXX-X;Nicolás;NO DISPONIBLE;NO DISPONIBLE;+56974898095;jpskjnyz994@example.com;Avenida San Martín 7391;Cauquenes;8026;2019-10-23;Descartado;XX.XXX.XXX-X;jpskjnyz994@example.com
+20880;XX.XXX.XXX-X;Daniel;Campos;Cervantes;NO DISPONIBLE;zmyhpps397@mailserver.io;Camino Moreno 7771;Calama;4962;2019-10-22;Descartado;XX.XXX.XXX-X;zmyhpps397@mailserver.io
+21962;XX.XXX.XXX-X;Ricardo;NO DISPONIBLE;NO DISPONIBLE;+56910274597;toatyuj189@testmail.org;NO DISPONIBLE;Vallenar;4975;2019-08-18;Descartado;XX.XXX.XXX-X;toatyuj189@testmail.org
+25181;XX.XXX.XXX-X;Javier;García;NO DISPONIBLE;+56918864791;rigrx855@demo.net;Camino OHiggins 395 dpto. 1349;Punta Arenas;5568;2019-06-24;Descartado;XX.XXX.XXX-X;rigrx855@demo.net
+21265;XX.XXX.XXX-X;Mónica;Padilla;Pacheco;+56999699531;wfmtjt947@example.com;Camino San Martín 7127 dpto. 1078;San Fernando;9285;2019-06-10;Descartado;XX.XXX.XXX-X;wfmtjt947@example.com
+21570;XX.XXX.XXX-X;Lucas;Palacios;Estrada;+56938033044;vuonko809@demo.net;Avenida Las Heras 8986;Curicó;2069;2019-06-01;Descartado;XX.XXX.XXX-X;vuonko809@demo.net
+22354;XX.XXX.XXX-X;Enrique, Jiménez, Villanueva;NO DISPONIBLE;NO DISPONIBLE;+56932336641;vwmgqzlivs106@testmail.org;Camino José Miguel Carrera 5382;San Felipe;1184;2019-05-05;Descartado;XX.XXX.XXX-X;vwmgqzlivs106@testmail.org
+22720;XX.XXX.XXX-X;Jorge;Mejía;Chávez;+56949571676;uhjnwmpzzu286@mailserver.io;Camino OHiggins 609 dpto. 2157;Curicó;3761;2019-05-03;Descartado;XX.XXX.XXX-X;uhjnwmpzzu286@mailserver.io
+24257;XX.XXX.XXX-X;Alicia;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;mrpeshigk821@sample.cl;Camino Colón 2131 dpto. 1624;Penco;7062;2019-04-30;Descartado;XX.XXX.XXX-X;mrpeshigk821@sample.cl
+23990;XX.XXX.XXX-X;Tomás;Acosta;Moreno;+56990856025;pnedenkocq876@example.com;Avenida Alvear 5203 dpto. 283;Calama;5100;2019-04-16;Descartado;XX.XXX.XXX-X;pnedenkocq876@example.com
+22635;XX.XXX.XXX-X;Rebeca;Castro;Ruiz;+56919491314;erxfkbb538@mailserver.io;Avenida Colón 4535;La Serena;8047;2019-04-08;Descartado;XX.XXX.XXX-X;erxfkbb538@mailserver.io
+24875;XX.XXX.XXX-X;Lucía;Moreno;Acosta;+56913452927;bpnise763@example.com;Camino Mitre 21 dpto. 158;Lota;7928;2019-03-06;Descartado;XX.XXX.XXX-X;bpnise763@example.com
+22375;XX.XXX.XXX-X;Patricia;Ríos;Castillo;+56992155683;zurpi951@testmail.org;Ruta Alvear 9351 dpto. 93;Santiago;9764;2019-02-27;Descartado;XX.XXX.XXX-X;zurpi951@testmail.org
+20905;XX.XXX.XXX-X;María;Benítez;Palacios;NO DISPONIBLE;wuganyb130@testmail.org;Camino San Martín 4305;Lota;4749;2019-02-17;Descartado;XX.XXX.XXX-X;wuganyb130@testmail.org
+23097;XX.XXX.XXX-X;Alberto;NO DISPONIBLE;NO DISPONIBLE;+56941191149;dwgbpq274@demo.net;Ruta Alvear 7270;Talcahuano;6692;2019-02-16;Descartado;XX.XXX.XXX-X;dwgbpq274@demo.net
+23782;XX.XXX.XXX-X;Eduardo;NO DISPONIBLE;NO DISPONIBLE;+56934500241;bdynbz311@example.com;Calle Artigas 6610;Padre Hurtado;1316;2019-02-15;Descartado;XX.XXX.XXX-X;bdynbz311@example.com
+24456;XX.XXX.XXX-X;Estefanía;Delgado;NO DISPONIBLE;+56972371470;plydx184@demo.net;Avenida La Paz 4994;Valdivia;2883;2019-02-10;Descartado;XX.XXX.XXX-X;plydx184@demo.net
+22138;XX.XXX.XXX-X;Esteban, Cruz;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;inhdxd188@example.com;Camino Belgrano 1658 dpto. 413;Iquique;6178;2019-02-02;Descartado;XX.XXX.XXX-X;inhdxd188@example.com
+25548;XX.XXX.XXX-X;Ana, Ríos;NO DISPONIBLE;NO DISPONIBLE;+56962913054;jriyvgyj735@demo.net;Calle Las Heras 3712 dpto. 2435;Punta Arenas;8152;2019-01-13;Descartado;XX.XXX.XXX-X;jriyvgyj735@demo.net
+22830;XX.XXX.XXX-X;Ana;Zamora;Molina;+56910713582;inthlcpks432@sample.cl;Ruta Mitre 3902 dpto. 834;Coyhaique;6682;2018-12-30;Descartado;XX.XXX.XXX-X;inthlcpks432@sample.cl
+22164;XX.XXX.XXX-X;Isabel, Cervantes, Bustamante;NO DISPONIBLE;NO DISPONIBLE;+56978907480;lphru640@demo.net;Camino Sarmiento 4350;Penco;6316;2018-11-30;Descartado;XX.XXX.XXX-X;lphru640@demo.net
+20891;XX.XXX.XXX-X;Irene;Gallegos;NO DISPONIBLE;+56942688711;NO DISPONIBLE;Ruta Artigas 9424 dpto. 241;Peñaflor;5174;2018-11-22;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+21140;XX.XXX.XXX-X;Mateo;Alvarez;Campos;NO DISPONIBLE;xhhqdhx283@testmail.org;Camino Las Heras 4234 dpto. 161;Quilicura;4275;2018-11-12;Descartado;XX.XXX.XXX-X;xhhqdhx283@testmail.org
+25203;XX.XXX.XXX-X;Gerardo, Navarro;NO DISPONIBLE;NO DISPONIBLE;+56953722855;qeffyvlz645@demo.net;Ruta Santa Rosa 7770;Curicó;8126;2018-10-19;Descartado;XX.XXX.XXX-X;qeffyvlz645@demo.net
+25602;XX.XXX.XXX-X;Isabel;NO DISPONIBLE;NO DISPONIBLE;+56938917071;ysfysf623@example.com;Ruta Colón 7830;Iquique;6102;2018-10-13;Descartado;XX.XXX.XXX-X;ysfysf623@example.com
+25692;XX.XXX.XXX-X;Gabriela;NO DISPONIBLE;NO DISPONIBLE;+56910269791;gjhnkfto261@testmail.org;Camino Alvear 3699 dpto. 2270;Coronel;8047;2018-10-06;Descartado;XX.XXX.XXX-X;gjhnkfto261@testmail.org
+24059;XX.XXX.XXX-X;Andrés, Blanco, Medina;NO DISPONIBLE;NO DISPONIBLE;+56956791780;pegfcuij745@testmail.org;Calle San Martín 5620;Buin;2909;2018-09-24;Descartado;XX.XXX.XXX-X;pegfcuij745@testmail.org
+24728;XX.XXX.XXX-X;Mariana, Barrera;NO DISPONIBLE;NO DISPONIBLE;+56981479877;lqvhpe475@mailserver.io;Avenida La Paz 8662;Padre Hurtado;2721;2018-09-20;Descartado;XX.XXX.XXX-X;lqvhpe475@mailserver.io
+23234;XX.XXX.XXX-X;Cecilia, Aguirre, Zamora;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;bpuhgb897@testmail.org;Ruta San Martín 6349;Puente Alto;4577;2018-07-19;Descartado;XX.XXX.XXX-X;bpuhgb897@testmail.org
+23034;XX.XXX.XXX-X;Irene, Trejo, Palacios;NO DISPONIBLE;NO DISPONIBLE;+56920365453;gndbmylqgr575@testmail.org;Camino Mitre 9440;San Antonio;9825;2018-07-09;Descartado;XX.XXX.XXX-X;gndbmylqgr575@testmail.org
+25724;XX.XXX.XXX-X;Carolina, Sánchez, Escobar;NO DISPONIBLE;NO DISPONIBLE;+56914093321;psefpbzq632@testmail.org;Avenida Colón 4977 dpto. 1205;Melipilla;6306;2018-06-23;Descartado;XX.XXX.XXX-X;psefpbzq632@testmail.org
+23576;XX.XXX.XXX-X;Patricia;Villanueva;NO DISPONIBLE;+56921004383;axmnvlvj197@demo.net;Calle Rivadavia 9693 dpto. 1122;Concepción;6424;2018-06-15;Descartado;XX.XXX.XXX-X;axmnvlvj197@demo.net
+21673;XX.XXX.XXX-X;Mariana, Peña;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;tmkkd377@testmail.org;Camino Bolívar 597;San Felipe;7525;2018-06-10;Descartado;XX.XXX.XXX-X;tmkkd377@testmail.org
+21163;XX.XXX.XXX-X;Paula, Villanueva;NO DISPONIBLE;NO DISPONIBLE;+56962908958;bmitngscfb541@mailserver.io;Ruta Moreno 159 dpto. 1930;San Felipe;9312;2018-05-30;Descartado;XX.XXX.XXX-X;bmitngscfb541@mailserver.io
+25128;XX.XXX.XXX-X;Bruno, Martínez;NO DISPONIBLE;NO DISPONIBLE;+56954904468;fnyeomx270@testmail.org;Avenida Sarmiento 3824;Arica;9641;2018-05-15;Descartado;XX.XXX.XXX-X;fnyeomx270@testmail.org
+22879;XX.XXX.XXX-X;Ana, Ruiz, Pineda;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;wtkkopn962@example.com;Camino San Martín 2934 dpto. 876;Quillota;4718;2018-05-14;Descartado;XX.XXX.XXX-X;wtkkopn962@example.com
+21152;XX.XXX.XXX-X;Alberto;NO DISPONIBLE;NO DISPONIBLE;+56917607959;wvdqxk436@mailserver.io;Camino José Miguel Carrera 8863 dpto. 2415;Punta Arenas;8810;2018-04-17;Descartado;XX.XXX.XXX-X;wvdqxk436@mailserver.io
+22131;XX.XXX.XXX-X;Silvia;Camacho;NO DISPONIBLE;+56956653619;uzvaenmhy715@testmail.org;Calle Mitre 7404 dpto. 239;Coyhaique;9083;2018-03-31;Descartado;XX.XXX.XXX-X;uzvaenmhy715@testmail.org
+22000;XX.XXX.XXX-X;María;Maldonado;Quiroga;NO DISPONIBLE;gsaoyb694@sample.cl;Ruta Colón 8478;Valdivia;5541;2018-03-18;Descartado;XX.XXX.XXX-X;gsaoyb694@sample.cl
+23535;XX.XXX.XXX-X;Enrique;Paredes;Barrera;+56949514879;pflrfqpav388@example.com;Ruta Sucre 7228 dpto. 2357;Melipilla;3592;2018-03-18;Descartado;XX.XXX.XXX-X;pflrfqpav388@example.com
+24984;XX.XXX.XXX-X;Marcos, Pérez, Guerrero;NO DISPONIBLE;NO DISPONIBLE;+56929656038;ivvoho283@demo.net;Avenida José Miguel Carrera 8868;Vallenar;3330;2018-03-04;Descartado;XX.XXX.XXX-X;ivvoho283@demo.net
+25702;XX.XXX.XXX-X;Rosa;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;rqkhcwprhw368@sample.cl;Camino Belgrano 4167 dpto. 2102;Curicó;5099;2017-12-22;Descartado;XX.XXX.XXX-X;rqkhcwprhw368@sample.cl
+24608;XX.XXX.XXX-X;Ricardo, Ruiz;NO DISPONIBLE;NO DISPONIBLE;+56976175741;NO DISPONIBLE;Avenida Yrigoyen 1186 dpto. 1929;Buin;5320;2017-12-19;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+23367;XX.XXX.XXX-X;Daniel;NO DISPONIBLE;NO DISPONIBLE;+56962368207;xhgte104@sample.cl;Calle Alvear 501;Vallenar;1403;2017-12-15;Descartado;XX.XXX.XXX-X;xhgte104@sample.cl
+23268;XX.XXX.XXX-X;Carlos, Gallegos;NO DISPONIBLE;NO DISPONIBLE;+56993264013;jvuperjg791@testmail.org;Ruta La Paz 7056;Quillota;7498;2017-12-13;Descartado;XX.XXX.XXX-X;jvuperjg791@testmail.org
+23764;XX.XXX.XXX-X;Jorge, Zamora, Silva;NO DISPONIBLE;NO DISPONIBLE;+56971253694;NO DISPONIBLE;Avenida Sucre 932 dpto. 2021;San Fernando;6495;2017-12-02;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+21807;XX.XXX.XXX-X;Lorena;NO DISPONIBLE;NO DISPONIBLE;+56988725144;tnwhoact118@sample.cl;Camino Rivadavia 1858;Villa Alemana;3423;2017-11-29;Descartado;XX.XXX.XXX-X;tnwhoact118@sample.cl
+21718;XX.XXX.XXX-X;Salvador, García;NO DISPONIBLE;NO DISPONIBLE;+56960262398;nzuoxm357@mailserver.io;Calle Larraín 5577;Osorno;5433;2017-10-31;Descartado;XX.XXX.XXX-X;nzuoxm357@mailserver.io
+23055;XX.XXX.XXX-X;Elena;Arellano;Palacios;+56955884469;bzfiqjmf648@example.com;Ruta Artigas 8296;Lo Prado;7614;2017-10-25;Descartado;XX.XXX.XXX-X;bzfiqjmf648@example.com
+21392;XX.XXX.XXX-X;Andrea;NO DISPONIBLE;NO DISPONIBLE;+56987011225;imaiyrrxe996@demo.net;Calle Alvear 9293 dpto. 956;Hualpén;4589;2017-10-19;Descartado;XX.XXX.XXX-X;imaiyrrxe996@demo.net
+23406;XX.XXX.XXX-X;Cecilia;Luna;NO DISPONIBLE;+56997565429;hsxrtdwj819@sample.cl;Avenida Belgrano 2379 dpto. 307;Puente Alto;5292;2017-10-16;Descartado;XX.XXX.XXX-X;hsxrtdwj819@sample.cl
+22498;XX.XXX.XXX-X;Gloria, Alvarez;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;mborlskf756@sample.cl;Avenida San Martín 8254 dpto. 1529;La Pintana;6638;2017-10-08;Descartado;XX.XXX.XXX-X;mborlskf756@sample.cl
+21496;XX.XXX.XXX-X;Felipe;Benítez;NO DISPONIBLE;+56964892143;NO DISPONIBLE;Avenida Moreno 9957;Arica;2567;2017-08-28;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+24010;XX.XXX.XXX-X;Miguel;Chávez;Alvarez;+56970438394;fdhqepksv556@sample.cl;NO DISPONIBLE;Vitacura;3718;2017-08-24;Descartado;XX.XXX.XXX-X;fdhqepksv556@sample.cl
+21291;XX.XXX.XXX-X;Ramón;Núñez;NO DISPONIBLE;+56963238639;zwxegwu450@example.com;Calle José Miguel Carrera 2819;Valparaíso;6471;2017-08-15;Descartado;XX.XXX.XXX-X;zwxegwu450@example.com
+21831;XX.XXX.XXX-X;Lucas;Castro;NO DISPONIBLE;+56928153685;sxoeyclk100@example.com;NO DISPONIBLE;Puerto Montt;2642;2017-07-29;Descartado;XX.XXX.XXX-X;sxoeyclk100@example.com
+23405;XX.XXX.XXX-X;Natalia;Jiménez;Montoya;+56991843996;yinjgqrfb998@sample.cl;Calle Santa Rosa 6674 dpto. 2425;Quilicura;4127;2017-06-02;Descartado;XX.XXX.XXX-X;yinjgqrfb998@sample.cl
+23981;XX.XXX.XXX-X;Carlos;Rodríguez;NO DISPONIBLE;+56960373530;kqviourcx451@demo.net;Camino José Miguel Carrera 6817 dpto. 2317;Valparaíso;1207;2017-04-29;Descartado;XX.XXX.XXX-X;kqviourcx451@demo.net
+24755;XX.XXX.XXX-X;Lucía;Villanueva;Fernández;+56989552338;nlrhxiuzx100@sample.cl;Calle Yrigoyen 5909 dpto. 1420;Quillota;2592;2017-02-10;Descartado;XX.XXX.XXX-X;nlrhxiuzx100@sample.cl
+23112;XX.XXX.XXX-X;Ana;NO DISPONIBLE;NO DISPONIBLE;+56937722292;livtrmy993@testmail.org;Ruta José Miguel Carrera 6323;Vitacura;2256;2017-02-07;Descartado;XX.XXX.XXX-X;livtrmy993@testmail.org
+21759;XX.XXX.XXX-X;Gabriela, Pacheco, Navarro;NO DISPONIBLE;NO DISPONIBLE;+56920672800;ixgzzobc226@testmail.org;Ruta Belgrano 9652 dpto. 211;Copiapó;9842;2017-01-17;Descartado;XX.XXX.XXX-X;ixgzzobc226@testmail.org
+23800;XX.XXX.XXX-X;Cecilia;Arroyo;Quintero;+56945356384;fwjwoh168@testmail.org;Camino Moreno 7622;Angol;2630;2017-01-14;Descartado;XX.XXX.XXX-X;fwjwoh168@testmail.org
+22334;XX.XXX.XXX-X;Lucía, Muñoz, Soto;NO DISPONIBLE;NO DISPONIBLE;+56979327912;jiepvyb335@example.com;Camino San Martín 3913;Antofagasta;8707;2017-01-10;Descartado;XX.XXX.XXX-X;jiepvyb335@example.com
+22979;XX.XXX.XXX-X;Silvia, Barrera, Martínez;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;czktvj268@testmail.org;Camino Mitre 1828 dpto. 1752;Curicó;8834;2017-01-03;Descartado;XX.XXX.XXX-X;czktvj268@testmail.org
+25507;XX.XXX.XXX-X;Manuela;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;otfzddt219@testmail.org;Camino Esmeralda 6914 dpto. 802;Melipilla;5900;2016-11-13;Descartado;XX.XXX.XXX-X;otfzddt219@testmail.org
+25454;XX.XXX.XXX-X;Lorena, González, Ledesma;NO DISPONIBLE;NO DISPONIBLE;+56965001731;yeeyvpkc602@mailserver.io;Camino Santa Rosa 7687;Iquique;2420;2016-11-06;Descartado;XX.XXX.XXX-X;yeeyvpkc602@mailserver.io
+24632;XX.XXX.XXX-X;Natalia;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;iwcoshmh787@testmail.org;Camino Alvear 5526 dpto. 779;Maipú;6700;2016-10-08;Descartado;XX.XXX.XXX-X;iwcoshmh787@testmail.org
+21175;XX.XXX.XXX-X;Lucía;Velasco;Sánchez;+56985528766;irjbhu382@sample.cl;Camino Artigas 7913 dpto. 2026;Peñaflor;5706;2016-08-27;Descartado;XX.XXX.XXX-X;irjbhu382@sample.cl
+25111;XX.XXX.XXX-X;Antonio;Trejo;NO DISPONIBLE;+56912994695;vxfha778@example.com;NO DISPONIBLE;Padre Hurtado;6610;2016-08-24;Descartado;XX.XXX.XXX-X;vxfha778@example.com
+22839;XX.XXX.XXX-X;Lucas, Rodríguez, Fernández;NO DISPONIBLE;NO DISPONIBLE;+56949311255;kahchfrv645@testmail.org;Camino Moreno 5498 dpto. 1413;Quillota;4936;2016-08-20;Descartado;XX.XXX.XXX-X;kahchfrv645@testmail.org
+25217;XX.XXX.XXX-X;Bruno;NO DISPONIBLE;NO DISPONIBLE;+56974831408;icdoksw575@sample.cl;Camino Alvear 263 dpto. 1525;La Serena;8518;2016-08-20;Descartado;XX.XXX.XXX-X;icdoksw575@sample.cl
+24134;XX.XXX.XXX-X;Elena, Del Valle, Silva;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;Calle OHiggins 8633 dpto. 2389;Lota;6478;2016-08-15;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+20817;XX.XXX.XXX-X;Cecilia;NO DISPONIBLE;NO DISPONIBLE;+56925622632;kznfhpb870@example.com;Avenida Bolívar 9483 dpto. 1317;Linares;1954;2016-08-08;Descartado;XX.XXX.XXX-X;kznfhpb870@example.com
+24851;XX.XXX.XXX-X;Beatriz;Soto;NO DISPONIBLE;+56935473683;NO DISPONIBLE;Avenida Santa Rosa 1315 dpto. 2028;Penco;9743;2016-07-18;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+21563;XX.XXX.XXX-X;Mónica, Valencia;NO DISPONIBLE;NO DISPONIBLE;+56985958386;zpfmuz498@demo.net;Camino Santa Rosa 1722 dpto. 2029;Valparaíso;2472;2016-06-30;Descartado;XX.XXX.XXX-X;zpfmuz498@demo.net
+22244;XX.XXX.XXX-X;Diego, Quintero, Valdez;NO DISPONIBLE;NO DISPONIBLE;+56947727344;upseztcj613@example.com;Calle Rivadavia 759;Rancagua;1332;2016-05-26;Descartado;XX.XXX.XXX-X;upseztcj613@example.com
+21178;XX.XXX.XXX-X;Sebastián, Martínez;NO DISPONIBLE;NO DISPONIBLE;+56921471277;hmavst777@demo.net;Ruta Independencia 7505;Santiago;6891;2016-04-21;Descartado;XX.XXX.XXX-X;hmavst777@demo.net
+25493;XX.XXX.XXX-X;Lucía, Escobar;NO DISPONIBLE;NO DISPONIBLE;+56959662312;veixzfw438@example.com;Ruta Las Heras 4228;Ovalle;7866;2016-04-08;Descartado;XX.XXX.XXX-X;veixzfw438@example.com
+24264;XX.XXX.XXX-X;Silvia, Bermúdez, Quiroga;NO DISPONIBLE;NO DISPONIBLE;+56958434859;nxsupxks575@example.com;Avenida Mitre 2959;Buin;9058;2016-04-06;Descartado;XX.XXX.XXX-X;nxsupxks575@example.com
+23143;XX.XXX.XXX-X;Cristina, López;NO DISPONIBLE;NO DISPONIBLE;+56976466758;cydznaoo325@testmail.org;Camino Alvear 6679 dpto. 970;El Bosque;1549;2016-03-24;Descartado;XX.XXX.XXX-X;cydznaoo325@testmail.org
+24683;XX.XXX.XXX-X;Sebastián, Delgado;NO DISPONIBLE;NO DISPONIBLE;+56950480920;xzepz453@sample.cl;Ruta Belgrano 4269;El Bosque;9321;2016-03-20;Descartado;XX.XXX.XXX-X;xzepz453@sample.cl
+22335;XX.XXX.XXX-X;Natalia;Gallegos;Bravo;+56960153812;reiodxf842@testmail.org;Calle Alvear 1959;Peñaflor;5397;2016-03-12;Descartado;XX.XXX.XXX-X;reiodxf842@testmail.org
+23633;XX.XXX.XXX-X;Álvaro, Jiménez;NO DISPONIBLE;NO DISPONIBLE;+56946165269;rzycuy583@testmail.org;Calle San Martín 9822 dpto. 295;Ovalle;9663;2016-03-01;Descartado;XX.XXX.XXX-X;rzycuy583@testmail.org
+22560;XX.XXX.XXX-X;Cecilia;Saavedra;Torres;+56958405001;agcbudn791@example.com;Avenida Larraín 6267 dpto. 1774;Providencia;7694;2016-02-29;Descartado;XX.XXX.XXX-X;agcbudn791@example.com
+24955;XX.XXX.XXX-X;Rosa;Cruz;González;+56939669706;wvvgjclp756@sample.cl;Avenida Moreno 7391;El Bosque;4514;2016-01-25;Descartado;XX.XXX.XXX-X;wvvgjclp756@sample.cl
+23327;XX.XXX.XXX-X;Evelyn;NO DISPONIBLE;NO DISPONIBLE;+56972865153;wkfsbb662@testmail.org;Camino Bolívar 9263;Talcahuano;4655;2016-01-19;Descartado;XX.XXX.XXX-X;wkfsbb662@testmail.org
+21543;XX.XXX.XXX-X;Silvia, Luna;NO DISPONIBLE;NO DISPONIBLE;+56928634580;oglmksyto745@sample.cl;Ruta San Martín 1551;Puerto Montt;9811;2016-01-12;Descartado;XX.XXX.XXX-X;oglmksyto745@sample.cl
+24887;XX.XXX.XXX-X;Francisco;NO DISPONIBLE;NO DISPONIBLE;+56946734878;NO DISPONIBLE;Ruta Mitre 3739;Talcahuano;7182;2015-12-19;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+22292;XX.XXX.XXX-X;Clara;NO DISPONIBLE;NO DISPONIBLE;+56951653968;wkvpndwas239@demo.net;Ruta La Paz 2101 dpto. 921;Penco;2394;2015-11-24;Descartado;XX.XXX.XXX-X;wkvpndwas239@demo.net
+24523;XX.XXX.XXX-X;Natalia, Palacios;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;asyskziuv312@demo.net;Camino Moreno 5777 dpto. 2435;Machalí;7278;2015-11-24;Descartado;XX.XXX.XXX-X;asyskziuv312@demo.net
+23712;XX.XXX.XXX-X;Ramón;NO DISPONIBLE;NO DISPONIBLE;+56991701601;cxpxetkg585@sample.cl;Ruta Santa Rosa 7702;Iquique;7026;2015-11-12;Descartado;XX.XXX.XXX-X;cxpxetkg585@sample.cl
+24702;XX.XXX.XXX-X;Gabriela;NO DISPONIBLE;NO DISPONIBLE;+56929150043;xapahdyn794@sample.cl;Ruta Las Heras 607 dpto. 480;Quillota;7041;2015-11-07;Descartado;XX.XXX.XXX-X;xapahdyn794@sample.cl
+23641;XX.XXX.XXX-X;Irene;Molina;NO DISPONIBLE;NO DISPONIBLE;fcxnhjtc813@demo.net;Calle Independencia 1552;Los Ángeles;8498;2015-10-23;Descartado;XX.XXX.XXX-X;fcxnhjtc813@demo.net
+22887;XX.XXX.XXX-X;Lucas;NO DISPONIBLE;NO DISPONIBLE;+56953886207;pdqjxkupdp245@sample.cl;Calle Larraín 382 dpto. 2289;Vitacura;6742;2015-10-20;Descartado;XX.XXX.XXX-X;pdqjxkupdp245@sample.cl
+23925;XX.XXX.XXX-X;Alan;Del Valle;Acosta;+56945285822;zkcyvbiz505@sample.cl;Calle Bolívar 2935;Chillán;5330;2015-10-07;Descartado;XX.XXX.XXX-X;zkcyvbiz505@sample.cl
+21822;XX.XXX.XXX-X;Carlos;NO DISPONIBLE;NO DISPONIBLE;+56947104071;rfbmtyrwt507@demo.net;Calle Bolívar 3619 dpto. 1765;Providencia;4202;2015-10-03;Descartado;XX.XXX.XXX-X;rfbmtyrwt507@demo.net
+24724;XX.XXX.XXX-X;Ramón, Benítez, Ibarra;NO DISPONIBLE;NO DISPONIBLE;+56933015882;wtivxr234@testmail.org;Calle Larraín 6927;Puente Alto;8918;2015-10-02;Descartado;XX.XXX.XXX-X;wtivxr234@testmail.org
+20860;XX.XXX.XXX-X;Gloria;Valencia;Orozco;+56948059974;hfiyias637@testmail.org;Avenida Sarmiento 8255;Osorno;5053;2015-09-19;Descartado;XX.XXX.XXX-X;hfiyias637@testmail.org
+24723;XX.XXX.XXX-X;Claudia, Palacios;NO DISPONIBLE;NO DISPONIBLE;+56956751723;tmcwdzn333@mailserver.io;Camino Las Heras 5597;Puente Alto;6373;2015-09-03;Descartado;XX.XXX.XXX-X;tmcwdzn333@mailserver.io
+22430;XX.XXX.XXX-X;Laura;Jiménez;Valencia;+56989814466;uurjapod260@testmail.org;Ruta José Miguel Carrera 9472;Talcahuano;8838;2015-08-22;Descartado;XX.XXX.XXX-X;uurjapod260@testmail.org
+23260;XX.XXX.XXX-X;Sandra;Peña;Jiménez;NO DISPONIBLE;tkqpfq880@example.com;Ruta Sucre 3987;Coyhaique;5160;2015-08-16;Descartado;XX.XXX.XXX-X;tkqpfq880@example.com
+24044;XX.XXX.XXX-X;Agustín, Maldonado, Montes;NO DISPONIBLE;NO DISPONIBLE;+56943262881;NO DISPONIBLE;Avenida Sarmiento 7109;Linares;3607;2015-08-16;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+25366;XX.XXX.XXX-X;Mateo;Alvarez;NO DISPONIBLE;+56917501610;zkupakozr164@example.com;Camino Belgrano 6039;Osorno;5431;2015-08-06;Descartado;XX.XXX.XXX-X;zkupakozr164@example.com
+24641;XX.XXX.XXX-X;Clara;Vega;NO DISPONIBLE;+56992709281;qssjz305@example.com;Camino Colón 5289 dpto. 1603;Iquique;5636;2015-06-14;Descartado;XX.XXX.XXX-X;qssjz305@example.com
+24344;XX.XXX.XXX-X;Alma, Sandoval, Chávez;NO DISPONIBLE;NO DISPONIBLE;+56959494560;dnxkds333@testmail.org;Ruta Colón 6235 dpto. 1431;Castro;4809;2015-06-03;Descartado;XX.XXX.XXX-X;dnxkds333@testmail.org
+21243;XX.XXX.XXX-X;Gloria, Ramos;NO DISPONIBLE;NO DISPONIBLE;+56967775894;utxfnxnl273@mailserver.io;Avenida Bolívar 8017 dpto. 60;Osorno;5287;2015-05-30;Descartado;XX.XXX.XXX-X;utxfnxnl273@mailserver.io
+25261;XX.XXX.XXX-X;Natalia;Quiroga;NO DISPONIBLE;+56938051707;vpbpmi485@demo.net;Ruta José Miguel Carrera 4103;Valparaíso;4402;2015-05-19;Descartado;XX.XXX.XXX-X;vpbpmi485@demo.net
+21137;XX.XXX.XXX-X;Valentina;NO DISPONIBLE;NO DISPONIBLE;+56962632518;dvnlnysf587@mailserver.io;NO DISPONIBLE;La Serena;5850;2015-05-06;Descartado;XX.XXX.XXX-X;dvnlnysf587@mailserver.io
+21486;XX.XXX.XXX-X;Álvaro;Benítez;NO DISPONIBLE;+56958462168;NO DISPONIBLE;Avenida San Martín 4750 dpto. 912;Villa Alemana;1384;2015-05-04;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+23019;XX.XXX.XXX-X;Mónica, Navarro, Saavedra;NO DISPONIBLE;NO DISPONIBLE;+56985098543;bpdauzixx605@testmail.org;Camino Las Heras 9335;Lota;8633;2015-05-01;Descartado;XX.XXX.XXX-X;bpdauzixx605@testmail.org
+23107;XX.XXX.XXX-X;Guadalupe;NO DISPONIBLE;NO DISPONIBLE;+56935758804;wjwhlkov179@mailserver.io;NO DISPONIBLE;Buin;7752;2015-04-11;Descartado;XX.XXX.XXX-X;wjwhlkov179@mailserver.io
+21405;XX.XXX.XXX-X;Alicia;Benítez;Cárdenas;+56956878125;medmxdgf723@mailserver.io;Ruta Santa Rosa 7983;Hualpén;9819;2015-04-08;Descartado;XX.XXX.XXX-X;medmxdgf723@mailserver.io
+23910;XX.XXX.XXX-X;Emilio;Castro;Camacho;NO DISPONIBLE;bdlrwjoin219@demo.net;Camino Las Heras 6840 dpto. 204;Peñaflor;7956;2015-03-16;Descartado;XX.XXX.XXX-X;bdlrwjoin219@demo.net
+22813;XX.XXX.XXX-X;Marcos, Fuentes;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;ztvpbsd801@demo.net;Avenida Mitre 4232;Valdivia;2467;2015-01-12;Descartado;XX.XXX.XXX-X;ztvpbsd801@demo.net
+21211;XX.XXX.XXX-X;Esteban;Benítez;NO DISPONIBLE;+56960407708;sbxponnt579@sample.cl;Avenida Santa Rosa 1561;Curicó;2759;2014-12-05;Descartado;XX.XXX.XXX-X;sbxponnt579@sample.cl
+23288;XX.XXX.XXX-X;Clara, Romero;NO DISPONIBLE;NO DISPONIBLE;+56925403101;szkucax100@sample.cl;NO DISPONIBLE;Los Ángeles;4726;2014-11-15;Descartado;XX.XXX.XXX-X;szkucax100@sample.cl
+25097;XX.XXX.XXX-X;Álvaro;NO DISPONIBLE;NO DISPONIBLE;+56963496195;eugaw781@example.com;Ruta Sarmiento 4697;Colina;6658;2014-10-03;Descartado;XX.XXX.XXX-X;eugaw781@example.com
+22084;XX.XXX.XXX-X;Francisco, Moreno, Aguilar;NO DISPONIBLE;NO DISPONIBLE;+56934234402;fbtqbd563@testmail.org;NO DISPONIBLE;Angol;5906;2014-09-29;Descartado;XX.XXX.XXX-X;fbtqbd563@testmail.org
+22593;XX.XXX.XXX-X;Amelia, Jiménez;NO DISPONIBLE;NO DISPONIBLE;+56998261762;edxhnvz702@demo.net;Camino OHiggins 9444;Antofagasta;4032;2014-09-22;Descartado;XX.XXX.XXX-X;edxhnvz702@demo.net
+23224;XX.XXX.XXX-X;Mariana, Barrera, Zapata;NO DISPONIBLE;NO DISPONIBLE;+56912772463;dxfvjuatr709@mailserver.io;NO DISPONIBLE;San Antonio;6570;2014-08-27;Descartado;XX.XXX.XXX-X;dxfvjuatr709@mailserver.io
+23989;XX.XXX.XXX-X;Bruno, Mejía, Gutiérrez;NO DISPONIBLE;NO DISPONIBLE;+56913235909;elttyg633@sample.cl;Camino Sucre 5049 dpto. 1328;El Bosque;9558;2014-08-16;Descartado;XX.XXX.XXX-X;elttyg633@sample.cl
+21449;XX.XXX.XXX-X;Fernando, Martínez, Pineda;NO DISPONIBLE;NO DISPONIBLE;+56950869725;NO DISPONIBLE;NO DISPONIBLE;Santiago;1965;2014-08-07;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+22240;XX.XXX.XXX-X;Tomás;González;Manrique;+56932799158;NO DISPONIBLE;Ruta Sucre 4335 dpto. 1835;Copiapó;3440;2014-08-05;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+20862;XX.XXX.XXX-X;Victoria;NO DISPONIBLE;NO DISPONIBLE;+56966519415;anaocu271@example.com;NO DISPONIBLE;Arica;3170;2014-07-10;Descartado;XX.XXX.XXX-X;anaocu271@example.com
+21530;XX.XXX.XXX-X;Carlos;Cárdenas;Espinoza;NO DISPONIBLE;jjbst345@sample.cl;Camino Las Heras 7108;Calama;5762;2014-07-10;Descartado;XX.XXX.XXX-X;jjbst345@sample.cl
+24401;XX.XXX.XXX-X;Emilio;Orozco;NO DISPONIBLE;+56987528504;vxtweqjbn223@demo.net;Avenida José Miguel Carrera 7107 dpto. 954;Cauquenes;1889;2014-07-05;Descartado;XX.XXX.XXX-X;vxtweqjbn223@demo.net
+22471;XX.XXX.XXX-X;Patricia;Navarro;NO DISPONIBLE;+56943097252;fxmieknn460@demo.net;Ruta Mitre 477 dpto. 1129;Quillota;4001;2014-06-09;Descartado;XX.XXX.XXX-X;fxmieknn460@demo.net
+22453;XX.XXX.XXX-X;Ignacio, Manrique;NO DISPONIBLE;NO DISPONIBLE;+56939380572;vayylx425@mailserver.io;Ruta Rivadavia 7254 dpto. 2494;Rancagua;1754;2014-06-06;Descartado;XX.XXX.XXX-X;vayylx425@mailserver.io
+21685;XX.XXX.XXX-X;Natalia;Saavedra;Valencia;NO DISPONIBLE;lmmxyrzh422@sample.cl;Camino Bolívar 5610;Talca;5244;2014-04-20;Descartado;XX.XXX.XXX-X;lmmxyrzh422@sample.cl
+22410;XX.XXX.XXX-X;Bruno;Peña;Mejía;+56933573267;onlhyo406@testmail.org;NO DISPONIBLE;Valparaíso;9547;2014-03-30;Descartado;XX.XXX.XXX-X;onlhyo406@testmail.org
+22738;XX.XXX.XXX-X;Felipe, Reyes;NO DISPONIBLE;NO DISPONIBLE;+56918794703;qbmwqv364@testmail.org;NO DISPONIBLE;Lota;4749;2014-03-25;Descartado;XX.XXX.XXX-X;qbmwqv364@testmail.org
+25423;XX.XXX.XXX-X;Fernando, Saavedra;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;rmbem173@mailserver.io;Calle Esmeralda 8252;Colina;9702;2014-03-22;Descartado;XX.XXX.XXX-X;rmbem173@mailserver.io
+23724;XX.XXX.XXX-X;Tomás, Gallegos, Solís;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;vveobqy776@testmail.org;NO DISPONIBLE;Puerto Montt;5434;2014-03-17;Descartado;XX.XXX.XXX-X;vveobqy776@testmail.org
+24469;XX.XXX.XXX-X;Carlos, García, Sánchez;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;nnuvtak671@demo.net;Ruta Las Heras 1440 dpto. 1353;Angol;6210;2014-03-03;Descartado;XX.XXX.XXX-X;nnuvtak671@demo.net
+25165;XX.XXX.XXX-X;Gerardo;Castro;Velasco;+56952126574;npbjqkp536@example.com;Calle San Martín 8383;Talcahuano;3328;2014-02-25;Descartado;XX.XXX.XXX-X;npbjqkp536@example.com
+21056;XX.XXX.XXX-X;Isabel;Benítez;NO DISPONIBLE;NO DISPONIBLE;iemodzo510@demo.net;Ruta Sucre 867 dpto. 2387;Talca;3974;2014-02-24;Descartado;XX.XXX.XXX-X;iemodzo510@demo.net
+22665;XX.XXX.XXX-X;Marcos;Molina;Cervantes;+56942612099;thkyavdfl769@demo.net;Camino Santa Rosa 5553;Talca;9600;2014-02-17;Descartado;XX.XXX.XXX-X;thkyavdfl769@demo.net
+24963;XX.XXX.XXX-X;Silvia, Delgado;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;nxjcwfbf502@demo.net;Camino Mitre 4079;Hualpén;6854;2014-02-06;Descartado;XX.XXX.XXX-X;nxjcwfbf502@demo.net
+24971;XX.XXX.XXX-X;Luis;Palacios;NO DISPONIBLE;+56943279434;caocoym118@mailserver.io;Camino Moreno 4658 dpto. 498;Lo Prado;4598;2014-01-12;Descartado;XX.XXX.XXX-X;caocoym118@mailserver.io
+21603;XX.XXX.XXX-X;Lorena, Quintero;NO DISPONIBLE;NO DISPONIBLE;+56949444763;tsiztin489@demo.net;Ruta Bolívar 1435 dpto. 1733;Penco;5585;2014-01-02;Descartado;XX.XXX.XXX-X;tsiztin489@demo.net
+21665;XX.XXX.XXX-X;Mariana;Barrera;Quintero;NO DISPONIBLE;olvssmh179@demo.net;Calle José Miguel Carrera 3078;Valdivia;2167;2013-11-26;Descartado;XX.XXX.XXX-X;olvssmh179@demo.net
+21327;XX.XXX.XXX-X;Natalia;NO DISPONIBLE;NO DISPONIBLE;+56981305325;gudgzctf495@mailserver.io;Calle Esmeralda 7859 dpto. 1187;Copiapó;9621;2013-11-17;Descartado;XX.XXX.XXX-X;gudgzctf495@mailserver.io
+24535;XX.XXX.XXX-X;Fernando;Del Valle;Aguirre;NO DISPONIBLE;xtgaivhdw168@mailserver.io;Ruta La Paz 3629;Vitacura;7354;2013-10-28;Descartado;XX.XXX.XXX-X;xtgaivhdw168@mailserver.io
+22850;XX.XXX.XXX-X;Julio;Rodríguez;Castillo;+56953511065;xlnmpk442@mailserver.io;Calle Moreno 7012 dpto. 821;Coyhaique;8806;2013-10-18;Descartado;XX.XXX.XXX-X;xlnmpk442@mailserver.io
+21403;XX.XXX.XXX-X;Alma, Escobar;NO DISPONIBLE;NO DISPONIBLE;+56938520229;hekrsg288@mailserver.io;Ruta Las Heras 3043;Talca;2178;2013-10-15;Descartado;XX.XXX.XXX-X;hekrsg288@mailserver.io
+25757;XX.XXX.XXX-X;Sebastián;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;lstjbopcu987@example.com;Calle OHiggins 4940;Rancagua;9390;2013-10-14;Descartado;XX.XXX.XXX-X;lstjbopcu987@example.com
+25015;XX.XXX.XXX-X;Carmen;Pacheco;Núñez;NO DISPONIBLE;slbgmvsco419@mailserver.io;Camino La Paz 8088 dpto. 2128;Linares;7853;2013-09-27;Descartado;XX.XXX.XXX-X;slbgmvsco419@mailserver.io
+22519;XX.XXX.XXX-X;Natalia, Ramírez, Muñoz;NO DISPONIBLE;NO DISPONIBLE;+56941851550;NO DISPONIBLE;Camino Esmeralda 314 dpto. 436;Peñaflor;7850;2013-09-25;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+21803;XX.XXX.XXX-X;Alan, Villanueva;NO DISPONIBLE;NO DISPONIBLE;+56924170553;fnxqbn888@testmail.org;Camino Las Heras 6668;Machalí;4623;2013-09-18;Descartado;XX.XXX.XXX-X;fnxqbn888@testmail.org
+23481;XX.XXX.XXX-X;Andrea;Hernández;NO DISPONIBLE;+56984963381;mbqlmmpz171@mailserver.io;Camino Artigas 2876 dpto. 1791;Arica;1013;2013-09-11;Descartado;XX.XXX.XXX-X;mbqlmmpz171@mailserver.io
+22408;XX.XXX.XXX-X;Luis, Escobar;NO DISPONIBLE;NO DISPONIBLE;+56968363545;lydevx444@sample.cl;Ruta Belgrano 7995;Arica;1728;2013-09-09;Descartado;XX.XXX.XXX-X;lydevx444@sample.cl
+21363;XX.XXX.XXX-X;Isabel, Jiménez;NO DISPONIBLE;NO DISPONIBLE;+56967646934;txywkv441@example.com;Calle Las Heras 4060;La Serena;3683;2013-08-25;Descartado;XX.XXX.XXX-X;txywkv441@example.com
+21666;XX.XXX.XXX-X;Rebeca;Estrada;NO DISPONIBLE;+56978242475;quwary895@testmail.org;Avenida Santa Rosa 2802;Chillán;9561;2013-08-08;Descartado;XX.XXX.XXX-X;quwary895@testmail.org
+22069;XX.XXX.XXX-X;Jorge, Velasco, Soto;NO DISPONIBLE;NO DISPONIBLE;+56941073498;lgvzizhfw794@example.com;Camino Moreno 8315;Linares;3280;2013-07-21;Descartado;XX.XXX.XXX-X;lgvzizhfw794@example.com
+22290;XX.XXX.XXX-X;Lucas;Arellano;Mejía;+56957579170;NO DISPONIBLE;Calle Alvear 3244 dpto. 1019;Castro;1414;2013-05-12;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+21846;XX.XXX.XXX-X;Enrique;Villanueva;NO DISPONIBLE;+56920077887;wvcmgkck719@sample.cl;Camino Yrigoyen 7130 dpto. 1435;Curicó;6174;2013-04-30;Descartado;XX.XXX.XXX-X;wvcmgkck719@sample.cl
+23548;XX.XXX.XXX-X;Sebastián, Valencia;NO DISPONIBLE;NO DISPONIBLE;+56924588622;NO DISPONIBLE;Calle La Paz 9631;Temuco;8323;2013-04-09;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+24879;XX.XXX.XXX-X;Álex, Quintero, Camacho;NO DISPONIBLE;NO DISPONIBLE;+56960204275;cthkzgf165@mailserver.io;Avenida Moreno 5776;Lota;1124;2013-03-26;Descartado;XX.XXX.XXX-X;cthkzgf165@mailserver.io
+25038;XX.XXX.XXX-X;Hugo, Miranda;NO DISPONIBLE;NO DISPONIBLE;+56986682313;lfpvb210@testmail.org;Avenida Las Heras 7179;Copiapó;4805;2013-03-13;Descartado;XX.XXX.XXX-X;lfpvb210@testmail.org
+25396;XX.XXX.XXX-X;Bruno;Castillo;NO DISPONIBLE;+56924057145;NO DISPONIBLE;Ruta Esmeralda 4432 dpto. 1569;Vitacura;4145;2013-03-06;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+22140;XX.XXX.XXX-X;Raquel;Valdez;Guerrero;+56913096372;wnxhf160@demo.net;NO DISPONIBLE;Concepción;1624;2013-03-05;Descartado;XX.XXX.XXX-X;wnxhf160@demo.net
+22936;XX.XXX.XXX-X;Eduardo;Palacios;NO DISPONIBLE;+56950616656;NO DISPONIBLE;NO DISPONIBLE;Ovalle;6062;2013-02-17;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+23345;XX.XXX.XXX-X;Manuel;Alvarez;Bravo;+56912595286;qqcbmpi331@sample.cl;Camino José Miguel Carrera 9656 dpto. 2442;Temuco;8107;2013-02-13;Descartado;XX.XXX.XXX-X;qqcbmpi331@sample.cl
+20981;XX.XXX.XXX-X;Elena;Gallegos;NO DISPONIBLE;+56933412249;flwxgaibzn991@example.com;Ruta José Miguel Carrera 4956 dpto. 1301;San Antonio;7638;2013-01-29;Descartado;XX.XXX.XXX-X;flwxgaibzn991@example.com
+22530;XX.XXX.XXX-X;Irene;Acosta;Villalobos;NO DISPONIBLE;NO DISPONIBLE;Ruta José Miguel Carrera 3432;Chillán;8692;2013-01-27;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+22642;XX.XXX.XXX-X;Evelyn;NO DISPONIBLE;NO DISPONIBLE;+56917914667;xpaxgnfi273@mailserver.io;Camino Bolívar 2873;Providencia;8818;2013-01-13;Descartado;XX.XXX.XXX-X;xpaxgnfi273@mailserver.io
+24238;XX.XXX.XXX-X;Ricardo, Zapata;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;djvgwuzui401@mailserver.io;Ruta Independencia 7879;Talca;8514;2013-01-10;Descartado;XX.XXX.XXX-X;djvgwuzui401@mailserver.io
+22537;XX.XXX.XXX-X;Julio;NO DISPONIBLE;NO DISPONIBLE;+56957637137;sofdoi568@mailserver.io;NO DISPONIBLE;Temuco;9443;2012-12-22;Descartado;XX.XXX.XXX-X;sofdoi568@mailserver.io
+21500;XX.XXX.XXX-X;Javier;Romero;López;+56974329045;djclvdj388@sample.cl;Ruta Independencia 6619 dpto. 862;Iquique;2969;2012-10-30;Descartado;XX.XXX.XXX-X;djclvdj388@sample.cl
+25666;XX.XXX.XXX-X;Miguel;Vargas;NO DISPONIBLE;+56916603858;mvcnodrvo884@example.com;Calle Artigas 3429;Padre Hurtado;2758;2012-10-06;Descartado;XX.XXX.XXX-X;mvcnodrvo884@example.com
+24959;XX.XXX.XXX-X;Natalia, Escobar, Orozco;NO DISPONIBLE;NO DISPONIBLE;+56980796871;himtcxg235@demo.net;Ruta Artigas 8014;Arica;3109;2012-09-26;Descartado;XX.XXX.XXX-X;himtcxg235@demo.net
+21840;XX.XXX.XXX-X;Salvador;Fernández;Solís;+56934618825;qjwxhb928@sample.cl;Avenida San Martín 5217 dpto. 1414;Huechuraba;3130;2012-09-12;Descartado;XX.XXX.XXX-X;qjwxhb928@sample.cl
+21395;XX.XXX.XXX-X;Ángel;Silva;Valdez;+56973665000;lmvabopz314@mailserver.io;Avenida Moreno 8106;Chillán;6005;2012-09-11;Descartado;XX.XXX.XXX-X;lmvabopz314@mailserver.io
+25740;XX.XXX.XXX-X;Raquel;Trejo;Padilla;NO DISPONIBLE;ajaoiwte781@testmail.org;Ruta Yrigoyen 5759;Talcahuano;3743;2012-08-03;Descartado;XX.XXX.XXX-X;ajaoiwte781@testmail.org
+23908;XX.XXX.XXX-X;Gabriela, Castillo;NO DISPONIBLE;NO DISPONIBLE;+56912322670;tmflw633@testmail.org;Avenida Yrigoyen 1554 dpto. 1115;Coronel;1524;2012-07-29;Descartado;XX.XXX.XXX-X;tmflw633@testmail.org
+23119;XX.XXX.XXX-X;Carmen, Estrada, Silva;NO DISPONIBLE;NO DISPONIBLE;+56991801736;fokxyxf902@mailserver.io;Avenida Santa Rosa 8841 dpto. 783;Arica;6886;2012-07-27;Descartado;XX.XXX.XXX-X;fokxyxf902@mailserver.io
+21906;XX.XXX.XXX-X;Enrique;Acosta;NO DISPONIBLE;+56953670615;hyzhkgd543@testmail.org;Ruta Moreno 4130 dpto. 687;Calama;1965;2012-06-30;Descartado;XX.XXX.XXX-X;hyzhkgd543@testmail.org
+22042;XX.XXX.XXX-X;Alberto;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;msjpojdkj203@mailserver.io;Calle Mitre 770;El Bosque;2332;2012-06-13;Descartado;XX.XXX.XXX-X;msjpojdkj203@mailserver.io
+23450;XX.XXX.XXX-X;Tomás;Sandoval;Campos;+56937374572;epdhb227@example.com;Ruta San Martín 8238 dpto. 2356;Rancagua;1301;2012-04-24;Descartado;XX.XXX.XXX-X;epdhb227@example.com
+24694;XX.XXX.XXX-X;Gerardo, Moreno, Zamora;NO DISPONIBLE;NO DISPONIBLE;+56955106912;aalyrgfi323@testmail.org;Avenida La Paz 9336 dpto. 96;Cauquenes;8328;2012-04-22;Descartado;XX.XXX.XXX-X;aalyrgfi323@testmail.org
+23333;XX.XXX.XXX-X;Emma, Quiroga;NO DISPONIBLE;NO DISPONIBLE;+56914714528;NO DISPONIBLE;Ruta Moreno 5390 dpto. 1869;San Felipe;8306;2012-04-18;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+23158;XX.XXX.XXX-X;Irene, Silva;NO DISPONIBLE;NO DISPONIBLE;+56943228468;fboefu618@sample.cl;Ruta José Miguel Carrera 511;Villa Alemana;8612;2012-04-06;Descartado;XX.XXX.XXX-X;fboefu618@sample.cl
+22606;XX.XXX.XXX-X;Ana;Miranda;NO DISPONIBLE;+56968004541;yrgpbc417@example.com;NO DISPONIBLE;Concepción;2835;2012-04-03;Descartado;XX.XXX.XXX-X;yrgpbc417@example.com
+23513;XX.XXX.XXX-X;Miguel, Campos;NO DISPONIBLE;NO DISPONIBLE;+56923001816;ymabvlppa363@testmail.org;Camino Santa Rosa 8613 dpto. 1089;Penco;9702;2012-03-22;Descartado;XX.XXX.XXX-X;ymabvlppa363@testmail.org
+22735;XX.XXX.XXX-X;Alicia;Trejo;Ríos;+56958196967;rqjgqtw952@sample.cl;Camino San Martín 2538 dpto. 302;Providencia;3238;2012-03-19;Descartado;XX.XXX.XXX-X;rqjgqtw952@sample.cl
+25641;XX.XXX.XXX-X;Carolina;Vega;NO DISPONIBLE;+56930764675;cfeucbpig235@mailserver.io;Calle Esmeralda 456 dpto. 120;Copiapó;9469;2012-02-21;Descartado;XX.XXX.XXX-X;cfeucbpig235@mailserver.io
+22940;XX.XXX.XXX-X;Sebastián;Salinas;Gutiérrez;+56930570504;oivioeojo176@sample.cl;Ruta San Martín 5978 dpto. 1792;Machalí;4482;2012-02-18;Descartado;XX.XXX.XXX-X;oivioeojo176@sample.cl
+22115;XX.XXX.XXX-X;Inés;Benítez;Herrera;+56954258961;NO DISPONIBLE;Avenida Larraín 3469 dpto. 770;Arica;1188;2012-02-05;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+21958;XX.XXX.XXX-X;Natalia, Alvarado;NO DISPONIBLE;NO DISPONIBLE;+56975334776;troycnxlf317@demo.net;Calle Belgrano 6418 dpto. 1227;Angol;2282;2012-02-04;Descartado;XX.XXX.XXX-X;troycnxlf317@demo.net
+25004;XX.XXX.XXX-X;Alberto, Espinoza, Palacios;NO DISPONIBLE;NO DISPONIBLE;+56956111275;tndvctkar899@demo.net;Ruta OHiggins 4304;Coronel;2612;2012-01-21;Descartado;XX.XXX.XXX-X;tndvctkar899@demo.net
+20818;XX.XXX.XXX-X;Ricardo, Ledesma;NO DISPONIBLE;NO DISPONIBLE;+56941510162;jgaatqhfwl410@testmail.org;Camino Bolívar 8464;Angol;4873;2012-01-06;Descartado;XX.XXX.XXX-X;jgaatqhfwl410@testmail.org
+20968;XX.XXX.XXX-X;Estefanía, Cabrera;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;axdefxg580@demo.net;Avenida Esmeralda 7795 dpto. 863;San Felipe;4198;2012-01-04;Descartado;XX.XXX.XXX-X;axdefxg580@demo.net
+24122;XX.XXX.XXX-X;Felipe;NO DISPONIBLE;NO DISPONIBLE;+56946257934;uhcoqhudy218@demo.net;Ruta Sucre 1110 dpto. 70;Antofagasta;5951;2011-11-27;Descartado;XX.XXX.XXX-X;uhcoqhudy218@demo.net
+22664;XX.XXX.XXX-X;Amelia, Fernández, Ibarra;NO DISPONIBLE;NO DISPONIBLE;+56962734971;shtdtzv177@example.com;Ruta Independencia 1818;Calama;1906;2011-11-20;Descartado;XX.XXX.XXX-X;shtdtzv177@example.com
+23376;XX.XXX.XXX-X;Miguel;Guerrero;NO DISPONIBLE;+56939612844;ybbpbkvv180@sample.cl;Ruta Santa Rosa 5662 dpto. 1790;Arica;1644;2011-11-14;Descartado;XX.XXX.XXX-X;ybbpbkvv180@sample.cl
+20900;XX.XXX.XXX-X;Álvaro;Hernández;Solís;+56952288114;uaavfei703@mailserver.io;Camino Yrigoyen 2411 dpto. 1960;Melipilla;2016;2011-11-13;Descartado;XX.XXX.XXX-X;uaavfei703@mailserver.io
+21725;XX.XXX.XXX-X;Isabel;Hernández;García;+56955794019;cfqpxmmv891@testmail.org;Calle San Martín 9303 dpto. 557;Puerto Montt;9446;2011-10-12;Descartado;XX.XXX.XXX-X;cfqpxmmv891@testmail.org
+25405;XX.XXX.XXX-X;Raquel;Guerrero;Martínez;+56976713192;nrldobek298@example.com;Ruta Belgrano 1410;Puente Alto;4946;2011-09-29;Descartado;XX.XXX.XXX-X;nrldobek298@example.com
+21371;XX.XXX.XXX-X;Jorge;Romero;NO DISPONIBLE;+56940395754;mukamz199@mailserver.io;Camino Sucre 8471;Villa Alemana;6646;2011-09-09;Descartado;XX.XXX.XXX-X;mukamz199@mailserver.io
+21081;XX.XXX.XXX-X;Ángel;Moreno;NO DISPONIBLE;+56935922140;cwhpypp725@sample.cl;NO DISPONIBLE;Talca;6033;2011-09-07;Descartado;XX.XXX.XXX-X;cwhpypp725@sample.cl
+22762;XX.XXX.XXX-X;Tomás;NO DISPONIBLE;NO DISPONIBLE;+56934717559;uyxab607@testmail.org;Avenida Alvear 2728 dpto. 552;Valparaíso;6283;2011-09-05;Descartado;XX.XXX.XXX-X;uyxab607@testmail.org
+24204;XX.XXX.XXX-X;Alma, Bustamante, Rentería;NO DISPONIBLE;NO DISPONIBLE;+56945928542;NO DISPONIBLE;NO DISPONIBLE;Chillán;4998;2011-08-28;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+21588;XX.XXX.XXX-X;Berta, Espinoza;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;hsvunrhx514@example.com;Calle Bolívar 1314 dpto. 362;Padre Hurtado;9390;2011-08-14;Descartado;XX.XXX.XXX-X;hsvunrhx514@example.com
+20939;XX.XXX.XXX-X;Julio, Aguilar, Ruiz;NO DISPONIBLE;NO DISPONIBLE;+56924311433;NO DISPONIBLE;Ruta Independencia 5951;Arica;3052;2011-07-25;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+25311;XX.XXX.XXX-X;Tomás;Maldonado;NO DISPONIBLE;+56928042953;ssypipn873@demo.net;Calle Yrigoyen 6477 dpto. 464;Copiapó;4423;2011-07-24;Descartado;XX.XXX.XXX-X;ssypipn873@demo.net
+22518;XX.XXX.XXX-X;Andrés, Delgado;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;wsogt298@example.com;NO DISPONIBLE;Padre Hurtado;4818;2011-07-13;Descartado;XX.XXX.XXX-X;wsogt298@example.com
+24805;XX.XXX.XXX-X;Estefanía;Castillo;Del Valle;+56911403307;wyifjsur988@testmail.org;Camino Esmeralda 5750 dpto. 422;Talcahuano;9939;2011-07-10;Descartado;XX.XXX.XXX-X;wyifjsur988@testmail.org
+22478;XX.XXX.XXX-X;Mónica, Navarro;NO DISPONIBLE;NO DISPONIBLE;+56931798750;fibehjq163@demo.net;Camino Yrigoyen 5174 dpto. 2201;Talcahuano;2517;2011-06-30;Descartado;XX.XXX.XXX-X;fibehjq163@demo.net
+24449;XX.XXX.XXX-X;Hugo, Ruiz, Sánchez;NO DISPONIBLE;NO DISPONIBLE;+56914609973;wvxddhtg929@example.com;Avenida Esmeralda 1920;Ovalle;8707;2011-05-17;Descartado;XX.XXX.XXX-X;wvxddhtg929@example.com
+25026;XX.XXX.XXX-X;Berta;Ruiz;NO DISPONIBLE;+56958495390;kxanjxvk278@example.com;Ruta Colón 7709;Maipú;3571;2011-04-24;Descartado;XX.XXX.XXX-X;kxanjxvk278@example.com
+23592;XX.XXX.XXX-X;Sebastián;NO DISPONIBLE;NO DISPONIBLE;+56941977110;fngvlgv569@demo.net;Avenida José Miguel Carrera 9793 dpto. 1494;La Serena;7603;2011-04-20;Descartado;XX.XXX.XXX-X;fngvlgv569@demo.net
+21127;XX.XXX.XXX-X;Daniel;NO DISPONIBLE;NO DISPONIBLE;+56968982572;nuhcawklp251@testmail.org;Ruta Artigas 5148;Osorno;7270;2011-04-15;Descartado;XX.XXX.XXX-X;nuhcawklp251@testmail.org
+22406;XX.XXX.XXX-X;Rosa;Mejía;NO DISPONIBLE;NO DISPONIBLE;nzhuhhzr123@demo.net;Avenida Independencia 2026 dpto. 1918;Providencia;3820;2011-04-11;Descartado;XX.XXX.XXX-X;nzhuhhzr123@demo.net
+24602;XX.XXX.XXX-X;Ramón;NO DISPONIBLE;NO DISPONIBLE;+56982403096;vjnbaeszn529@example.com;Avenida Esmeralda 7247;Osorno;2638;2011-04-11;Descartado;XX.XXX.XXX-X;vjnbaeszn529@example.com
+24623;XX.XXX.XXX-X;Pedro, Acosta;NO DISPONIBLE;NO DISPONIBLE;+56943007809;gwjlgt344@example.com;Calle Colón 9434 dpto. 1840;Temuco;9217;2011-04-07;Descartado;XX.XXX.XXX-X;gwjlgt344@example.com
+21247;XX.XXX.XXX-X;Andrés;NO DISPONIBLE;NO DISPONIBLE;+56925956631;pduxafafh418@testmail.org;Calle José Miguel Carrera 2894 dpto. 2388;Chillán;7499;2011-04-06;Descartado;XX.XXX.XXX-X;pduxafafh418@testmail.org
+25491;XX.XXX.XXX-X;Manuel;Muñoz;NO DISPONIBLE;NO DISPONIBLE;jujucr361@demo.net;Camino Sarmiento 18;Puerto Montt;8185;2011-03-29;Descartado;XX.XXX.XXX-X;jujucr361@demo.net
+23433;XX.XXX.XXX-X;Ana, Mejía;NO DISPONIBLE;NO DISPONIBLE;+56949597092;tzxwqv243@mailserver.io;Calle Las Heras 4348 dpto. 353;El Bosque;8171;2011-01-29;Descartado;XX.XXX.XXX-X;tzxwqv243@mailserver.io
+23313;XX.XXX.XXX-X;Tomás, Zapata;NO DISPONIBLE;NO DISPONIBLE;+56929043443;nozbxf883@example.com;Ruta Artigas 2710 dpto. 1651;Coronel;1520;2011-01-11;Descartado;XX.XXX.XXX-X;nozbxf883@example.com
+23468;XX.XXX.XXX-X;Lucía, Maldonado;NO DISPONIBLE;NO DISPONIBLE;+56923136714;xpmkxkhr555@sample.cl;Ruta Sarmiento 3947 dpto. 2360;La Pintana;7618;2011-01-09;Descartado;XX.XXX.XXX-X;xpmkxkhr555@sample.cl
+25003;XX.XXX.XXX-X;Gerardo, Arellano;NO DISPONIBLE;NO DISPONIBLE;+56999868161;lintgz626@mailserver.io;Avenida Bolívar 6373;Concepción;7691;2010-12-30;Descartado;XX.XXX.XXX-X;lintgz626@mailserver.io
+23060;XX.XXX.XXX-X;Beatriz;Villanueva;Padilla;+56920816748;zkcvjmw300@example.com;Camino Bolívar 5714 dpto. 847;Huechuraba;9594;2010-12-14;Descartado;XX.XXX.XXX-X;zkcvjmw300@example.com
+21811;XX.XXX.XXX-X;Lorena;Ramos;NO DISPONIBLE;+56953656691;zluujl146@example.com;Avenida Mitre 8017 dpto. 434;Coyhaique;5680;2010-11-19;Descartado;XX.XXX.XXX-X;zluujl146@example.com
+21337;XX.XXX.XXX-X;Renata;NO DISPONIBLE;NO DISPONIBLE;+56958518561;acvraffcy465@sample.cl;Avenida Independencia 2315 dpto. 68;Puerto Montt;6378;2010-11-17;Descartado;XX.XXX.XXX-X;acvraffcy465@sample.cl
+23681;XX.XXX.XXX-X;Hugo;Medina;NO DISPONIBLE;+56945055515;NO DISPONIBLE;Calle Bolívar 1386 dpto. 707;Maipú;8356;2010-11-09;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+23516;XX.XXX.XXX-X;Fátima;Orozco;NO DISPONIBLE;+56962116365;fwvccaqao480@mailserver.io;Avenida Belgrano 134;Ovalle;3702;2010-11-06;Descartado;XX.XXX.XXX-X;fwvccaqao480@mailserver.io
+21708;XX.XXX.XXX-X;Andrea, López;NO DISPONIBLE;NO DISPONIBLE;+56924619149;xhobk194@testmail.org;Camino Bolívar 8629;Coronel;6463;2010-09-15;Descartado;XX.XXX.XXX-X;xhobk194@testmail.org
+25793;XX.XXX.XXX-X;Carolina, Torres;NO DISPONIBLE;NO DISPONIBLE;+56984375753;zoflrnddy665@demo.net;Ruta Mitre 561;Vitacura;1105;2010-08-18;Descartado;XX.XXX.XXX-X;zoflrnddy665@demo.net
+23296;XX.XXX.XXX-X;Laura;Romero;NO DISPONIBLE;+56942784297;karkvwwu862@mailserver.io;Avenida Santa Rosa 7036 dpto. 847;Rancagua;3052;2010-08-02;Descartado;XX.XXX.XXX-X;karkvwwu862@mailserver.io
+25234;XX.XXX.XXX-X;Inés, Cárdenas, Muñoz;NO DISPONIBLE;NO DISPONIBLE;+56989261888;mpkefbfnr870@mailserver.io;Calle Sarmiento 2495;Calama;2926;2010-07-27;Descartado;XX.XXX.XXX-X;mpkefbfnr870@mailserver.io
+25112;XX.XXX.XXX-X;Evelyn;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;Ruta Bolívar 3717 dpto. 1026;Lota;7303;2010-07-05;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+21045;XX.XXX.XXX-X;Álex;Delgado;Delgado;+56977791636;NO DISPONIBLE;Camino Rivadavia 7034;Castro;5065;2010-06-23;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+22395;XX.XXX.XXX-X;Miguel;Manrique;Gutiérrez;+56999559648;ijabnxu802@mailserver.io;NO DISPONIBLE;San Antonio;9833;2010-06-14;Descartado;XX.XXX.XXX-X;ijabnxu802@mailserver.io
+24635;XX.XXX.XXX-X;Paula;Molina;Acosta;+56923682851;zjmxadt719@sample.cl;Camino Sarmiento 4915;Valparaíso;4486;2010-05-10;Descartado;XX.XXX.XXX-X;zjmxadt719@sample.cl
+25055;XX.XXX.XXX-X;Jorge;Solís;Bustamante;NO DISPONIBLE;ckyjuy742@sample.cl;Calle Colón 3490 dpto. 1435;Cauquenes;6802;2010-05-02;Descartado;XX.XXX.XXX-X;ckyjuy742@sample.cl
+23236;XX.XXX.XXX-X;Lorena;Vargas;NO DISPONIBLE;+56943428869;jrpbxz180@testmail.org;NO DISPONIBLE;Iquique;7532;2010-05-01;Descartado;XX.XXX.XXX-X;jrpbxz180@testmail.org
+22779;XX.XXX.XXX-X;Ana, Barrera, Guerrero;NO DISPONIBLE;NO DISPONIBLE;+56990925529;hpasdfrj180@sample.cl;Calle Santa Rosa 100 dpto. 1798;Ovalle;4774;2010-04-22;Descartado;XX.XXX.XXX-X;hpasdfrj180@sample.cl
+22561;XX.XXX.XXX-X;Emilio;Carrillo;NO DISPONIBLE;+56933870933;yconcfuxer179@demo.net;Camino Artigas 6775 dpto. 1368;Puerto Montt;3161;2010-04-13;Descartado;XX.XXX.XXX-X;yconcfuxer179@demo.net
+21838;XX.XXX.XXX-X;Oscar, Ruiz;NO DISPONIBLE;NO DISPONIBLE;+56980718490;tzotsk434@testmail.org;Calle Independencia 8484;Colina;4548;2010-02-13;Descartado;XX.XXX.XXX-X;tzotsk434@testmail.org
+25744;XX.XXX.XXX-X;Raquel, Sánchez, Romero;NO DISPONIBLE;NO DISPONIBLE;+56918249569;vfxmlmu616@testmail.org;Avenida Belgrano 2245;Maipú;7072;2010-01-16;Descartado;XX.XXX.XXX-X;vfxmlmu616@testmail.org
+24586;XX.XXX.XXX-X;Guadalupe;Moreno;NO DISPONIBLE;+56969437294;qpxkgrlr362@sample.cl;NO DISPONIBLE;Padre Hurtado;1010;2009-12-18;Descartado;XX.XXX.XXX-X;qpxkgrlr362@sample.cl
+25249;XX.XXX.XXX-X;Hugo, Alvarez, Palacios;NO DISPONIBLE;NO DISPONIBLE;+56989507488;ayokopt215@example.com;Camino José Miguel Carrera 5235;Arica;1596;2009-12-16;Descartado;XX.XXX.XXX-X;ayokopt215@example.com
+20822;XX.XXX.XXX-X;Hugo;NO DISPONIBLE;NO DISPONIBLE;+56975041827;mldqg739@sample.cl;Ruta José Miguel Carrera 4784;Linares;3776;2009-12-05;Descartado;XX.XXX.XXX-X;mldqg739@sample.cl
+24708;XX.XXX.XXX-X;Carmen, Romero;NO DISPONIBLE;NO DISPONIBLE;+56962657406;lmckpivsb107@mailserver.io;Ruta Sucre 1344;Linares;1724;2009-11-29;Descartado;XX.XXX.XXX-X;lmckpivsb107@mailserver.io
+22171;XX.XXX.XXX-X;Nicolás;Silva;NO DISPONIBLE;+56942519790;egmqdoeyxu668@example.com;Avenida Yrigoyen 8268 dpto. 1265;Linares;1587;2009-11-26;Descartado;XX.XXX.XXX-X;egmqdoeyxu668@example.com
+25562;XX.XXX.XXX-X;Isabel;NO DISPONIBLE;NO DISPONIBLE;+56993355948;nybiv526@demo.net;Calle Sucre 477 dpto. 2216;Peñaflor;1220;2009-10-12;Descartado;XX.XXX.XXX-X;nybiv526@demo.net
+22207;XX.XXX.XXX-X;Estefanía;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;vrqpjbk712@example.com;Camino José Miguel Carrera 9306;Peñaflor;5169;2009-08-23;Descartado;XX.XXX.XXX-X;vrqpjbk712@example.com
+24903;XX.XXX.XXX-X;Manuela, Alvarez;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;tqrmelkxn117@sample.cl;Avenida Sarmiento 1161;El Bosque;4335;2009-08-21;Descartado;XX.XXX.XXX-X;tqrmelkxn117@sample.cl
+22355;XX.XXX.XXX-X;José;Núñez;Quiroga;+56989696206;zocamkyw783@mailserver.io;Avenida Sarmiento 9542 dpto. 2117;Padre Hurtado;5990;2009-08-20;Descartado;XX.XXX.XXX-X;zocamkyw783@mailserver.io
+21535;XX.XXX.XXX-X;Carlos;Zapata;Rodríguez;+56940043244;ghxupb640@example.com;Camino Belgrano 1413 dpto. 2170;Copiapó;1122;2009-08-18;Descartado;XX.XXX.XXX-X;ghxupb640@example.com
+23870;XX.XXX.XXX-X;Gabriela;Benítez;Alvarez;+56976200178;ftgqcnkpt466@sample.cl;Ruta Yrigoyen 2846 dpto. 2467;Vallenar;8561;2009-07-27;Descartado;XX.XXX.XXX-X;ftgqcnkpt466@sample.cl
+21887;XX.XXX.XXX-X;Jorge;NO DISPONIBLE;NO DISPONIBLE;+56927934756;oxcjuqxwp509@example.com;Avenida Colón 6833 dpto. 2279;Angol;2064;2009-07-25;Descartado;XX.XXX.XXX-X;oxcjuqxwp509@example.com
+22003;XX.XXX.XXX-X;Elena, Vega;NO DISPONIBLE;NO DISPONIBLE;+56946792606;bywvygmcx845@example.com;Calle Rivadavia 2762 dpto. 2330;Santiago;1475;2009-05-24;Descartado;XX.XXX.XXX-X;bywvygmcx845@example.com
+24890;XX.XXX.XXX-X;Nicolás;Blanco;Bermúdez;+56961586297;yjiybm294@mailserver.io;Avenida OHiggins 3894;Iquique;9329;2009-05-20;Descartado;XX.XXX.XXX-X;yjiybm294@mailserver.io
+21813;XX.XXX.XXX-X;Sofía, Alvarez;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;Ruta Independencia 1455 dpto. 2403;Villa Alemana;9548;2009-05-14;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+21691;XX.XXX.XXX-X;Adriana;Castillo;NO DISPONIBLE;+56911541216;gdrowsnqsh203@sample.cl;Camino Esmeralda 5501;Temuco;3783;2009-05-05;Descartado;XX.XXX.XXX-X;gdrowsnqsh203@sample.cl
+24996;XX.XXX.XXX-X;Eduardo;Ríos;NO DISPONIBLE;+56944725107;izkspi637@demo.net;Calle Artigas 9607 dpto. 2250;San Fernando;7418;2009-04-29;Descartado;XX.XXX.XXX-X;izkspi637@demo.net
+24812;XX.XXX.XXX-X;Alan;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;ltnfxa637@mailserver.io;Camino San Martín 7956;Chillán;8975;2009-04-19;Descartado;XX.XXX.XXX-X;ltnfxa637@mailserver.io
+23543;XX.XXX.XXX-X;Claudia, Sánchez;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;bewce193@demo.net;Ruta Larraín 4299 dpto. 529;Talcahuano;9830;2009-04-07;Descartado;XX.XXX.XXX-X;bewce193@demo.net
+21130;XX.XXX.XXX-X;Oscar;Ramos;Zamora;NO DISPONIBLE;uqouas993@testmail.org;Ruta Belgrano 4014 dpto. 324;Machalí;8542;2009-04-03;Descartado;XX.XXX.XXX-X;uqouas993@testmail.org
+23338;XX.XXX.XXX-X;Evelyn, Núñez;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;Calama;2828;2009-03-08;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+23161;XX.XXX.XXX-X;Manuel;Bravo;NO DISPONIBLE;+56918385703;jstsmbao294@sample.cl;Avenida Artigas 330 dpto. 2315;Puente Alto;5703;2009-03-05;Descartado;XX.XXX.XXX-X;jstsmbao294@sample.cl
+24222;XX.XXX.XXX-X;Carolina;NO DISPONIBLE;NO DISPONIBLE;+56988527342;lcfqx121@sample.cl;Camino OHiggins 924;Iquique;7746;2009-02-25;Descartado;XX.XXX.XXX-X;lcfqx121@sample.cl
+24172;XX.XXX.XXX-X;Enrique;NO DISPONIBLE;NO DISPONIBLE;+56984553519;wkieeulqh615@mailserver.io;NO DISPONIBLE;Villa Alemana;1593;2009-01-15;Descartado;XX.XXX.XXX-X;wkieeulqh615@mailserver.io
+23332;XX.XXX.XXX-X;Laura;NO DISPONIBLE;NO DISPONIBLE;+56974997988;NO DISPONIBLE;Avenida Larraín 5953;Machalí;8614;2009-01-09;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+24545;XX.XXX.XXX-X;Daniel;Jiménez;Ledesma;+56947465884;NO DISPONIBLE;Ruta Moreno 5711;Talca;2707;2009-01-02;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+21539;XX.XXX.XXX-X;Natalia, Cortez, Soto;NO DISPONIBLE;NO DISPONIBLE;+56989486195;urefhesyf754@demo.net;NO DISPONIBLE;Rancagua;5571;2008-11-28;Descartado;XX.XXX.XXX-X;urefhesyf754@demo.net
+20983;XX.XXX.XXX-X;Claudia, Escobar;NO DISPONIBLE;NO DISPONIBLE;+56977062875;iaqszrlsb110@mailserver.io;Camino José Miguel Carrera 3332;Huechuraba;4328;2008-10-21;Descartado;XX.XXX.XXX-X;iaqszrlsb110@mailserver.io
+24220;XX.XXX.XXX-X;Elena;Guerrero;Rentería;+56917968579;ttnmxoqzk702@demo.net;Avenida Mitre 6312;Vallenar;2557;2008-10-05;Descartado;XX.XXX.XXX-X;ttnmxoqzk702@demo.net
+21805;XX.XXX.XXX-X;Marcos;Torres;Medina;+56934961994;kgioiiwdps664@testmail.org;Ruta Colón 8738;Padre Hurtado;5630;2008-08-21;Descartado;XX.XXX.XXX-X;kgioiiwdps664@testmail.org
+24904;XX.XXX.XXX-X;Adriana, Benítez, Villanueva;NO DISPONIBLE;NO DISPONIBLE;+56975334620;oetgtayv546@demo.net;Avenida Belgrano 2645;Villa Alemana;9559;2008-08-20;Descartado;XX.XXX.XXX-X;oetgtayv546@demo.net
+24562;XX.XXX.XXX-X;Beatriz;NO DISPONIBLE;NO DISPONIBLE;+56990180106;xdkvggeejq702@demo.net;Ruta José Miguel Carrera 3398;Temuco;8138;2008-08-17;Descartado;XX.XXX.XXX-X;xdkvggeejq702@demo.net
+25638;XX.XXX.XXX-X;Sebastián, Guerrero;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;bcutbe110@mailserver.io;Camino Santa Rosa 8371;Lota;2134;2008-08-09;Descartado;XX.XXX.XXX-X;bcutbe110@mailserver.io
+21433;XX.XXX.XXX-X;Guadalupe, García;NO DISPONIBLE;NO DISPONIBLE;+56957910561;NO DISPONIBLE;NO DISPONIBLE;Curicó;6081;2008-06-29;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+24749;XX.XXX.XXX-X;Oscar, Trejo, Torres;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;padayvvjjn303@testmail.org;Ruta Las Heras 9965;Temuco;8020;2008-06-22;Descartado;XX.XXX.XXX-X;padayvvjjn303@testmail.org
+25635;XX.XXX.XXX-X;Alan;Alvarez;Zapata;+56985578702;pmpaawvb222@testmail.org;Camino Larraín 9766;Talca;8244;2008-05-02;Descartado;XX.XXX.XXX-X;pmpaawvb222@testmail.org
+22601;XX.XXX.XXX-X;Pedro;Zapata;NO DISPONIBLE;+56943239549;yegeou414@mailserver.io;Ruta Yrigoyen 6964 dpto. 2282;San Fernando;7123;2008-04-22;Descartado;XX.XXX.XXX-X;yegeou414@mailserver.io
+22508;XX.XXX.XXX-X;Noelia, Del Valle;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;qbukuyl285@example.com;NO DISPONIBLE;Colina;7334;2008-04-21;Descartado;XX.XXX.XXX-X;qbukuyl285@example.com
+24655;XX.XXX.XXX-X;Inés;Salinas;Ortiz;+56971334696;jakgtqfmp356@demo.net;Avenida Artigas 3710 dpto. 223;La Pintana;9604;2008-04-21;Descartado;XX.XXX.XXX-X;jakgtqfmp356@demo.net
+21355;XX.XXX.XXX-X;Manuel;Blanco;Moreno;+56959661209;lzeddfocrz906@mailserver.io;Avenida José Miguel Carrera 1013 dpto. 1996;Lota;7405;2008-04-11;Descartado;XX.XXX.XXX-X;lzeddfocrz906@mailserver.io
+23650;XX.XXX.XXX-X;Emilio;Montes;Estrada;+56910712292;jwowopl473@sample.cl;Avenida Mitre 7125;Valdivia;1785;2008-04-10;Descartado;XX.XXX.XXX-X;jwowopl473@sample.cl
+24956;XX.XXX.XXX-X;Andrea;Fuentes;NO DISPONIBLE;+56988343439;NO DISPONIBLE;Ruta Yrigoyen 6344 dpto. 1110;El Bosque;8633;2008-04-07;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+21187;XX.XXX.XXX-X;Guadalupe;NO DISPONIBLE;NO DISPONIBLE;+56982127153;alotpxk904@example.com;Ruta Santa Rosa 8536 dpto. 614;Hualpén;5094;2008-03-29;Descartado;XX.XXX.XXX-X;alotpxk904@example.com
+22047;XX.XXX.XXX-X;Gloria;NO DISPONIBLE;NO DISPONIBLE;+56971103956;tsdzm904@mailserver.io;Ruta Colón 4857 dpto. 1825;Huechuraba;5553;2008-03-14;Descartado;XX.XXX.XXX-X;tsdzm904@mailserver.io
+23521;XX.XXX.XXX-X;Antonio;Ledesma;NO DISPONIBLE;+56971828756;ufluwjpj172@example.com;Avenida Yrigoyen 3507 dpto. 1869;Iquique;8054;2008-03-14;Descartado;XX.XXX.XXX-X;ufluwjpj172@example.com
+21366;XX.XXX.XXX-X;Antonio;Hernández;NO DISPONIBLE;+56919507296;ylnpll283@demo.net;Calle Las Heras 6598 dpto. 1500;Antofagasta;8329;2008-03-12;Descartado;XX.XXX.XXX-X;ylnpll283@demo.net
+23582;XX.XXX.XXX-X;Carlos;NO DISPONIBLE;NO DISPONIBLE;+56911657978;rvwyravs683@example.com;Calle Artigas 9636 dpto. 1899;Providencia;2342;2008-03-10;Descartado;XX.XXX.XXX-X;rvwyravs683@example.com
+23589;XX.XXX.XXX-X;Claudia, Luna, Fernández;NO DISPONIBLE;NO DISPONIBLE;+56916935917;eifbv181@sample.cl;NO DISPONIBLE;Maipú;2316;2008-02-14;Descartado;XX.XXX.XXX-X;eifbv181@sample.cl
+24339;XX.XXX.XXX-X;Lorena, Villalobos, Reyes;NO DISPONIBLE;NO DISPONIBLE;+56925550497;kwxhge109@example.com;Ruta Larraín 1302;Puerto Montt;5507;2008-01-02;Descartado;XX.XXX.XXX-X;kwxhge109@example.com
+22682;XX.XXX.XXX-X;Guadalupe;NO DISPONIBLE;NO DISPONIBLE;+56928480007;euxnsqa261@example.com;Ruta Santa Rosa 7525;San Felipe;1269;2007-12-23;Descartado;XX.XXX.XXX-X;euxnsqa261@example.com
+25273;XX.XXX.XXX-X;Gloria, Bravo;NO DISPONIBLE;NO DISPONIBLE;+56993970249;eisibodk645@testmail.org;Camino Sarmiento 6385 dpto. 1623;Penco;8651;2007-12-21;Descartado;XX.XXX.XXX-X;eisibodk645@testmail.org
+24482;XX.XXX.XXX-X;Julio;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;wimcsh656@mailserver.io;Avenida Alvear 7758;Valdivia;4381;2007-11-05;Descartado;XX.XXX.XXX-X;wimcsh656@mailserver.io
+25752;XX.XXX.XXX-X;Fernanda;NO DISPONIBLE;NO DISPONIBLE;+56930835388;bwlucqe781@testmail.org;Calle Las Heras 724 dpto. 1617;La Serena;2584;2007-09-20;Descartado;XX.XXX.XXX-X;bwlucqe781@testmail.org
+22562;XX.XXX.XXX-X;Elena;NO DISPONIBLE;NO DISPONIBLE;+56940255213;ytdxfeph197@testmail.org;Camino Las Heras 3491 dpto. 1710;Colina;7436;2007-08-20;Descartado;XX.XXX.XXX-X;ytdxfeph197@testmail.org
+23093;XX.XXX.XXX-X;Martín, Castro;NO DISPONIBLE;NO DISPONIBLE;+56915532258;rvkgstgnt345@testmail.org;Camino Independencia 5655;Huechuraba;2189;2007-07-28;Descartado;XX.XXX.XXX-X;rvkgstgnt345@testmail.org
+23659;XX.XXX.XXX-X;Antonio, Manrique, Navarro;NO DISPONIBLE;NO DISPONIBLE;+56932120404;lvpmwjpx838@demo.net;Calle Sucre 7977 dpto. 1982;Lota;5307;2007-07-24;Descartado;XX.XXX.XXX-X;lvpmwjpx838@demo.net
+21634;XX.XXX.XXX-X;Alberto, Aguirre, Zapata;NO DISPONIBLE;NO DISPONIBLE;+56929348761;qzvrckjf902@example.com;Camino José Miguel Carrera 8107;Penco;6372;2007-07-23;Descartado;XX.XXX.XXX-X;qzvrckjf902@example.com
+22072;XX.XXX.XXX-X;Carlos;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;ajwpivfrz152@demo.net;Avenida Colón 3060;Lo Prado;2267;2007-06-30;Descartado;XX.XXX.XXX-X;ajwpivfrz152@demo.net
+25703;XX.XXX.XXX-X;Lucía, Bermúdez;NO DISPONIBLE;NO DISPONIBLE;+56922503885;ywmox834@demo.net;Camino Colón 929;Osorno;6571;2007-06-28;Descartado;XX.XXX.XXX-X;ywmox834@demo.net
+23182;XX.XXX.XXX-X;Sandra;NO DISPONIBLE;NO DISPONIBLE;+56981295748;vqnize658@demo.net;Calle Larraín 493;Quillota;3414;2007-06-10;Descartado;XX.XXX.XXX-X;vqnize658@demo.net
+21795;XX.XXX.XXX-X;Julio;Cruz;Molina;NO DISPONIBLE;wnnnyusty453@testmail.org;Ruta Bolívar 9125;Linares;7589;2007-06-05;Descartado;XX.XXX.XXX-X;wnnnyusty453@testmail.org
+22589;XX.XXX.XXX-X;Adriana, Escobar, Delgado;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;zupywuv554@example.com;Camino Moreno 6487;Lota;5634;2007-05-05;Descartado;XX.XXX.XXX-X;zupywuv554@example.com
+25606;XX.XXX.XXX-X;Lorena;Padilla;NO DISPONIBLE;+56988390113;miyiyby650@example.com;Camino José Miguel Carrera 7011 dpto. 28;Antofagasta;4158;2007-04-30;Descartado;XX.XXX.XXX-X;miyiyby650@example.com
+22233;XX.XXX.XXX-X;Gabriela, Montes;NO DISPONIBLE;NO DISPONIBLE;+56989862298;yvzbvdo935@mailserver.io;Ruta OHiggins 2470 dpto. 1236;Curicó;7013;2007-03-19;Descartado;XX.XXX.XXX-X;yvzbvdo935@mailserver.io
+20887;XX.XXX.XXX-X;Irene;NO DISPONIBLE;NO DISPONIBLE;+56975000566;smrjuctypz499@demo.net;Camino Bolívar 4998;Melipilla;2819;2007-02-13;Descartado;XX.XXX.XXX-X;smrjuctypz499@demo.net
+23639;XX.XXX.XXX-X;Alicia, Bermúdez, Muñoz;NO DISPONIBLE;NO DISPONIBLE;+56983920803;cvofrpszb899@demo.net;Ruta Colón 363 dpto. 2052;Rancagua;4383;2007-02-06;Descartado;XX.XXX.XXX-X;cvofrpszb899@demo.net
+23353;XX.XXX.XXX-X;Gloria, Valencia;NO DISPONIBLE;NO DISPONIBLE;+56998603831;jwimcnkkd572@mailserver.io;Ruta Santa Rosa 1018 dpto. 2279;Chillán;6013;2006-12-19;Descartado;XX.XXX.XXX-X;jwimcnkkd572@mailserver.io
+24674;XX.XXX.XXX-X;Felipe, Silva, Alvarado;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;wbckzqde290@example.com;NO DISPONIBLE;Padre Hurtado;1463;2006-11-20;Descartado;XX.XXX.XXX-X;wbckzqde290@example.com
+25172;XX.XXX.XXX-X;Ángel;NO DISPONIBLE;NO DISPONIBLE;+56913977559;hwguk405@testmail.org;Ruta Belgrano 77;Curicó;8939;2006-11-14;Descartado;XX.XXX.XXX-X;hwguk405@testmail.org
+23016;XX.XXX.XXX-X;Teresa;Blanco;NO DISPONIBLE;+56958570875;NO DISPONIBLE;NO DISPONIBLE;Padre Hurtado;9924;2006-10-29;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+25529;XX.XXX.XXX-X;Javier, Fuentes, Castillo;NO DISPONIBLE;NO DISPONIBLE;+56957519478;psvlnnm565@mailserver.io;Calle Sarmiento 2823;Castro;7212;2006-09-11;Descartado;XX.XXX.XXX-X;psvlnnm565@mailserver.io
+23129;XX.XXX.XXX-X;Mónica, Aguirre, González;NO DISPONIBLE;NO DISPONIBLE;+56975304059;fhkfxuvvcz537@demo.net;Camino Bolívar 5020 dpto. 2282;Cauquenes;3603;2006-08-29;Descartado;XX.XXX.XXX-X;fhkfxuvvcz537@demo.net
+25296;XX.XXX.XXX-X;Eduardo;Cabrera;NO DISPONIBLE;+56911106816;ymcayggdpq366@sample.cl;Ruta Independencia 2136;Colina;5468;2006-08-06;Descartado;XX.XXX.XXX-X;ymcayggdpq366@sample.cl
+21049;XX.XXX.XXX-X;Carolina, Vargas, Maldonado;NO DISPONIBLE;NO DISPONIBLE;+56992403088;NO DISPONIBLE;NO DISPONIBLE;Valparaíso;6184;2006-07-25;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+25288;XX.XXX.XXX-X;Mariana, Cervantes;NO DISPONIBLE;NO DISPONIBLE;+56960108100;NO DISPONIBLE;Avenida Santa Rosa 8967;Peñaflor;1082;2006-07-08;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+23463;XX.XXX.XXX-X;Rosa, Medina;NO DISPONIBLE;NO DISPONIBLE;+56954632713;bsydvw179@testmail.org;Calle San Martín 644;La Pintana;6715;2006-06-30;Descartado;XX.XXX.XXX-X;bsydvw179@testmail.org
+20884;XX.XXX.XXX-X;Rosa, Camacho, Ríos;NO DISPONIBLE;NO DISPONIBLE;+56930344635;asclhk862@testmail.org;Camino Esmeralda 9389 dpto. 738;Linares;1301;2006-06-12;Descartado;XX.XXX.XXX-X;asclhk862@testmail.org
+22250;XX.XXX.XXX-X;Berta;Ruiz;Arellano;NO DISPONIBLE;ekznpthl635@sample.cl;Ruta José Miguel Carrera 1664 dpto. 899;Iquique;9352;2006-06-12;Descartado;XX.XXX.XXX-X;ekznpthl635@sample.cl
+24410;XX.XXX.XXX-X;Amelia;Miranda;Aguirre;+56975897388;bopucb611@testmail.org;Avenida OHiggins 3593;La Pintana;1691;2006-06-12;Descartado;XX.XXX.XXX-X;bopucb611@testmail.org
+22968;XX.XXX.XXX-X;José, Cortez;NO DISPONIBLE;NO DISPONIBLE;+56983817247;NO DISPONIBLE;Ruta Belgrano 6008;Calama;8841;2006-05-16;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+23854;XX.XXX.XXX-X;Rosa, Campos, Martínez;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;vbyvdx709@example.com;Calle Mitre 934;Puerto Montt;2940;2006-05-09;Descartado;XX.XXX.XXX-X;vbyvdx709@example.com
+23717;XX.XXX.XXX-X;Álex;NO DISPONIBLE;NO DISPONIBLE;+56915024374;wpavzel792@example.com;NO DISPONIBLE;Valparaíso;6685;2006-04-21;Descartado;XX.XXX.XXX-X;wpavzel792@example.com
+24126;XX.XXX.XXX-X;Marcos;Soto;NO DISPONIBLE;+56919702429;rtwxrtxa980@sample.cl;Avenida Colón 7159;Quilicura;8130;2006-03-01;Descartado;XX.XXX.XXX-X;rtwxrtxa980@sample.cl
+23018;XX.XXX.XXX-X;Antonio, Paredes;NO DISPONIBLE;NO DISPONIBLE;+56917041867;kqhlxai116@demo.net;Camino Moreno 4991 dpto. 1114;Quilicura;6404;2006-02-13;Descartado;XX.XXX.XXX-X;kqhlxai116@demo.net
+23960;XX.XXX.XXX-X;Sandra;Montes;Ledesma;+56920196990;czuwqj808@example.com;Camino Colón 7666;Iquique;8676;2006-02-10;Descartado;XX.XXX.XXX-X;czuwqj808@example.com
+24658;XX.XXX.XXX-X;Emma, Torres;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;dechaa499@mailserver.io;Ruta Larraín 1897 dpto. 1771;Lota;4659;2006-02-09;Descartado;XX.XXX.XXX-X;dechaa499@mailserver.io
+21743;XX.XXX.XXX-X;Tomás, Vega;NO DISPONIBLE;NO DISPONIBLE;+56988042184;armypjm785@sample.cl;Calle Sucre 8947;Colina;3366;2006-02-05;Descartado;XX.XXX.XXX-X;armypjm785@sample.cl
+22731;XX.XXX.XXX-X;Mónica;Vega;NO DISPONIBLE;NO DISPONIBLE;brpjtg605@demo.net;Calle Bolívar 9743;Huechuraba;4967;2006-01-23;Descartado;XX.XXX.XXX-X;brpjtg605@demo.net
+21536;XX.XXX.XXX-X;Alberto;Benítez;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;Calle La Paz 1792 dpto. 1108;Penco;8478;2006-01-21;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+24516;XX.XXX.XXX-X;Salvador;Mejía;NO DISPONIBLE;+56983661079;lbrduyo651@testmail.org;NO DISPONIBLE;Vallenar;8695;2006-01-14;Descartado;XX.XXX.XXX-X;lbrduyo651@testmail.org
+21042;XX.XXX.XXX-X;Julio;NO DISPONIBLE;NO DISPONIBLE;+56929822618;NO DISPONIBLE;Ruta Independencia 4271 dpto. 147;Peñaflor;3075;2006-01-08;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+24452;XX.XXX.XXX-X;Gerardo;NO DISPONIBLE;NO DISPONIBLE;+56969521046;jjcfhe432@example.com;Ruta Independencia 2641;Antofagasta;8293;2006-01-05;Descartado;XX.XXX.XXX-X;jjcfhe432@example.com
+22167;XX.XXX.XXX-X;Enrique;NO DISPONIBLE;NO DISPONIBLE;+56953107099;pagxysfxc317@testmail.org;NO DISPONIBLE;San Fernando;8362;2006-01-01;Descartado;XX.XXX.XXX-X;pagxysfxc317@testmail.org
+24203;XX.XXX.XXX-X;Lucía, Torres;NO DISPONIBLE;NO DISPONIBLE;+56987178712;igdukyaxq733@testmail.org;NO DISPONIBLE;Puerto Montt;8381;2005-12-11;Descartado;XX.XXX.XXX-X;igdukyaxq733@testmail.org
+22495;XX.XXX.XXX-X;Alan;Silva;Medina;+56910212343;pqctfefkk525@example.com;Camino Artigas 1907;Ovalle;7964;2005-11-26;Descartado;XX.XXX.XXX-X;pqctfefkk525@example.com
+23934;XX.XXX.XXX-X;Clara, Cortez, Ledesma;NO DISPONIBLE;NO DISPONIBLE;+56913504043;xcewndd961@testmail.org;Calle Independencia 3481;Villa Alemana;1105;2005-11-17;Descartado;XX.XXX.XXX-X;xcewndd961@testmail.org
+22548;XX.XXX.XXX-X;Daniel, García;NO DISPONIBLE;NO DISPONIBLE;+56996526320;uhkzxfd242@testmail.org;Ruta Artigas 7834 dpto. 187;Valdivia;1725;2005-10-28;Descartado;XX.XXX.XXX-X;uhkzxfd242@testmail.org
+21342;XX.XXX.XXX-X;Teresa;NO DISPONIBLE;NO DISPONIBLE;+56970531425;fbfpovar260@mailserver.io;Ruta Moreno 9247 dpto. 362;Coyhaique;3766;2005-10-27;Descartado;XX.XXX.XXX-X;fbfpovar260@mailserver.io
+24182;XX.XXX.XXX-X;Manuel;NO DISPONIBLE;NO DISPONIBLE;+56978802940;vvrxfmzfjl822@sample.cl;Camino Colón 5278;Puente Alto;3505;2005-10-17;Descartado;XX.XXX.XXX-X;vvrxfmzfjl822@sample.cl
+23703;XX.XXX.XXX-X;Emma, Padilla;NO DISPONIBLE;NO DISPONIBLE;+56910308468;rjgytlhqdf501@testmail.org;Camino Yrigoyen 4015;Osorno;1712;2005-10-16;Descartado;XX.XXX.XXX-X;rjgytlhqdf501@testmail.org
+25124;XX.XXX.XXX-X;Lucas, Arellano, Ortiz;NO DISPONIBLE;NO DISPONIBLE;+56971884043;sitjdd627@sample.cl;Ruta La Paz 1080;Osorno;6076;2005-09-15;Descartado;XX.XXX.XXX-X;sitjdd627@sample.cl
+23092;XX.XXX.XXX-X;Ramón;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;jxcdevvim954@example.com;Ruta José Miguel Carrera 3927;Talca;1984;2005-09-11;Descartado;XX.XXX.XXX-X;jxcdevvim954@example.com
+23994;XX.XXX.XXX-X;Salvador, Velasco, Rentería;NO DISPONIBLE;NO DISPONIBLE;+56917795425;mbyotk293@mailserver.io;NO DISPONIBLE;San Antonio;7446;2005-08-17;Descartado;XX.XXX.XXX-X;mbyotk293@mailserver.io
+23352;XX.XXX.XXX-X;Fernanda;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;xdxobjrs254@example.com;Ruta Moreno 9814 dpto. 1043;Cauquenes;4047;2005-07-16;Descartado;XX.XXX.XXX-X;xdxobjrs254@example.com
+23806;XX.XXX.XXX-X;Enrique;Mejía;NO DISPONIBLE;+56934136083;smmkiykzf217@testmail.org;Avenida Alvear 6495 dpto. 613;Buin;4785;2005-06-26;Descartado;XX.XXX.XXX-X;smmkiykzf217@testmail.org
+23886;XX.XXX.XXX-X;Raquel;González;NO DISPONIBLE;+56988703568;ifjnfts641@example.com;Camino Bolívar 9966;Chillán;8043;2005-06-14;Descartado;XX.XXX.XXX-X;ifjnfts641@example.com
+24032;XX.XXX.XXX-X;Jorge;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;hoxacj128@demo.net;Ruta Independencia 6091;Vallenar;7263;2005-04-21;Descartado;XX.XXX.XXX-X;hoxacj128@demo.net
+25553;XX.XXX.XXX-X;Victoria, Manrique;NO DISPONIBLE;NO DISPONIBLE;+56971986684;diuxtx137@sample.cl;Calle José Miguel Carrera 6332;San Antonio;5757;2005-04-11;Descartado;XX.XXX.XXX-X;diuxtx137@sample.cl
+24011;XX.XXX.XXX-X;Mariana;Medina;NO DISPONIBLE;NO DISPONIBLE;kjuenr266@demo.net;Calle Yrigoyen 5988;La Serena;4616;2005-03-28;Descartado;XX.XXX.XXX-X;kjuenr266@demo.net
+21724;XX.XXX.XXX-X;Mariana, Ruiz, González;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;ahnlruzuw649@example.com;Avenida Larraín 1510;San Felipe;4629;2005-03-08;Descartado;XX.XXX.XXX-X;ahnlruzuw649@example.com
+21283;XX.XXX.XXX-X;Silvia, Moreno;NO DISPONIBLE;NO DISPONIBLE;NO DISPONIBLE;oalgtl688@sample.cl;Ruta Bolívar 2645 dpto. 365;Peñaflor;6764;2005-03-02;Descartado;XX.XXX.XXX-X;oalgtl688@sample.cl
+24088;XX.XXX.XXX-X;Manuel, Ibarra;NO DISPONIBLE;NO DISPONIBLE;+56975812949;fjckqzfnj717@testmail.org;Calle Las Heras 9877 dpto. 1691;Arica;7373;2005-03-01;Descartado;XX.XXX.XXX-X;fjckqzfnj717@testmail.org
+21952;XX.XXX.XXX-X;Inés;NO DISPONIBLE;NO DISPONIBLE;+56949001158;ivxlgtg627@mailserver.io;NO DISPONIBLE;Quilicura;4606;2005-02-17;Descartado;XX.XXX.XXX-X;ivxlgtg627@mailserver.io
+21367;XX.XXX.XXX-X;Ana;NO DISPONIBLE;NO DISPONIBLE;+56959724121;xqbpow954@mailserver.io;Ruta Santa Rosa 7862;Antofagasta;6230;2005-02-09;Descartado;XX.XXX.XXX-X;xqbpow954@mailserver.io
+23705;XX.XXX.XXX-X;Irene;Del Valle;Villanueva;+56965082048;NO DISPONIBLE;Camino Bolívar 8291;Quillota;7515;2005-02-04;Descartado;XX.XXX.XXX-X;NO DISPONIBLE
+25378;XX.XXX.XXX-X;Elena, Pacheco;NO DISPONIBLE;NO DISPONIBLE;+56932521151;ghfbxcfprm939@mailserver.io;Camino Yrigoyen 3180 dpto. 1309;Los Ángeles;6177;2005-01-16;Descartado;XX.XXX.XXX-X;ghfbxcfprm939@mailserver.io
+23627;XX.XXX.XXX-X;Ramón;NO DISPONIBLE;NO DISPONIBLE;+56974260646;jpvnvoq879@sample.cl;Avenida Artigas 3781;Rancagua;4243;2005-01-15;Descartado;XX.XXX.XXX-X;jpvnvoq879@sample.cl
+24845;XX.XXX.XXX-X;Renata;Reyes;Vargas;+56968547701;oziginbgj699@demo.net;Calle Rivadavia 2327;Villa Alemana;1743;2005-01-12;Descartado;XX.XXX.XXX-X;oziginbgj699@demo.net
+22284;XX.XXX.XXX-X;Lucas, Cabrera, Ledesma;NO DISPONIBLE;NO DISPONIBLE;+56995405720;fvhbyqu824@example.com;Camino Artigas 3397 dpto. 605;Punta Arenas;9461;2005-01-08;Descartado;XX.XXX.XXX-X;fvhbyqu824@example.com
